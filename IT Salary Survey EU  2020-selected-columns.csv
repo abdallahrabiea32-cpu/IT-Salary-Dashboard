@@ -1,0 +1,1254 @@
+Timestamp,Age,Gender,City,Position,Total years of experience,Years of experience in Germany,Seniority level,Your main technology / programming language,Other technologies/programming languages you use often
+24/11/2020 11:14:15,26,Male,Munich,,5,3,Senior,TypeScript,"Kotlin, Javascript / Typescript"
+24/11/2020 11:14:16,26,Male,Berlin,,7,4,Senior,Ruby,
+24/11/2020 11:14:21,29,Male,Berlin,,12,6,Lead,Javascript / Typescript,"Javascript / Typescript, Docker"
+24/11/2020 11:15:24,28,Male,Berlin,,4,1,Junior,Javascript,
+24/11/2020 11:15:46,37,Male,Berlin,,17,6,Senior,C# .NET,".NET, SQL, AWS, Docker"
+24/11/2020 11:15:53,32,Male,Berlin,,5,1,Senior,"AWS, GCP, Python,K8s","Python, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:16:35,37,Male,Berlin,,6,0.4,Middle,Javascript,
+24/11/2020 11:16:44,24,Male,Berlin,,5,1,Senior,Typescript,Javascript / Typescript
+24/11/2020 11:17:24,29,Male,Berlin,,8,2,Senior,PHP,"SQL, AWS, Docker"
+24/11/2020 11:17:50,35,Male,Berlin,,15,3,Lead,Java,
+24/11/2020 11:18:06,32,Female,Hamburg,,2,2,Junior,Aws Hadoop Postgre Typescript,"Python, Kotlin, Javascript / Typescript, SQL, AWS"
+24/11/2020 11:18:16,,Male,Berlin,,25,11,Senior,C++,"Python, C/C++, SQL"
+24/11/2020 11:18:22,,,Berlin,,,,Lead,PHP,
+24/11/2020 11:18:26,34,Male,Berlin,,14,5,Senior,Typescript,"PHP, Javascript / Typescript, AWS"
+24/11/2020 11:18:40,28,Male,Berlin,,11,2,Senior,,
+24/11/2020 11:18:41,31,Male,Wolfsburg,,5,1,Senior,Kotlin,
+24/11/2020 11:18:52,29,Male,Hamburg,,7,3,Middle,Ruby,"Go, Kubernetes, Docker"
+24/11/2020 11:19:10,41,Male,Berlin,,18,2,Senior,,SQL
+24/11/2020 11:20:03,27,Male,Berlin,,8,3,Senior,PHP,
+24/11/2020 11:20:49,34,Male,Berlin,,11,5,Lead,kotlin,"Kotlin, Javascript / Typescript, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:21:10,34,Male,Berlin,,13,5,Senior,,
+24/11/2020 11:21:18,34,Male,Berlin,,15,9,Lead,NodeJS,"Javascript / Typescript, SQL, Go, AWS, Kubernetes, Docker, Terraform"
+24/11/2020 11:22:57,25,Male,Berlin,,5,2,Senior,Javascript,"Javascript / Typescript, AWS, Docker"
+24/11/2020 11:23:11,59,Male,Berlin,,30,30,Senior,Java,"Kotlin, Java / Scala, SQL"
+24/11/2020 11:23:53,36,Male,Berlin,,17,2,Lead,PHP,"Python, C/C++, Javascript / Typescript, SQL, Go, AWS, Docker"
+24/11/2020 11:25:03,38,Male,Berlin,,18,4,Lead,iOS,"Swift, AWS"
+24/11/2020 11:25:20,24,Male,Berlin,,6,3,Senior,Kubernetes,"Python, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:25:32,37,Male,Berlin,,6,6,Middle,Charles,
+24/11/2020 11:25:35,,Male,Berlin,,14,5,Senior,,"Python, Go, AWS, Kubernetes, Docker"
+24/11/2020 11:26:16,40,Male,Berlin,,13,1,Senior,SQL,Python
+24/11/2020 11:26:59,29,Male,Berlin,,6,4,Lead,Go,"Python, Go, AWS, Kubernetes, Docker"
+24/11/2020 11:27:34,31,Male,Berlin,,5,1,Middle,java,Kotlin
+24/11/2020 11:27:39,29,Female,Berlin,,7,1,Middle,,Javascript / Typescript
+24/11/2020 11:27:49,39,Male,Berlin,,8,5,Senior,Java,"Python, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:28:12,27,Male,Berlin,,8,1,Middle,Javascript,
+24/11/2020 11:28:14,33,Male,Berlin,,5,4,Lead,Python,"Python, R, Google Cloud, Docker"
+24/11/2020 11:28:58,28,Female,Berlin,,7,7,Middle,Figma,
+24/11/2020 11:29:18,30,Male,Berlin,,8,3,Senior,JavaScript,"Python, Javascript / Typescript, Java / Scala, Go, Kubernetes, Docker"
+24/11/2020 11:29:38,28,Male,Berlin,,5,1,Senior,Kotlin,"Python, Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker"
+24/11/2020 11:29:55,38,Male,Berlin,,10,5,Senior,Go/Python,"AWS, Kubernetes, Docker"
+24/11/2020 11:30:00,29,Male,Berlin,,7,2,Senior,React,Javascript / Typescript
+24/11/2020 11:30:11,49,Male,Berlin,,15,15,Senior,Java,SQL
+24/11/2020 11:30:21,32,Male,Berlin,,10,5,Senior,TypeScript,"AWS, Kubernetes"
+24/11/2020 11:30:38,33,Female,Berlin,,12,5,Senior,С#,"Python, C/C++, Javascript / Typescript, .NET, SQL"
+24/11/2020 11:30:45,30,Male,Berlin,,6,3,Senior,Java,"Kotlin, AWS, Kubernetes, Docker"
+24/11/2020 11:31:01,48,Male,Berlin,,25,11,Senior,Java,"Kotlin, Java / Scala, SQL"
+24/11/2020 11:31:38,28,Female,Berlin,,5,1,Senior,,
+24/11/2020 11:31:45,32,Male,Berlin,,3,1,Middle,Java,"AWS, Kubernetes, Docker"
+24/11/2020 11:31:50,38,Female,Berlin,,12,6,Senior,,C/C++
+24/11/2020 11:31:51,31,Male,Berlin,,7,3,Lead,Python,"Python, SQL, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:32:11,35,Male,Berlin,,10,7,Senior,Ruby,"Go, AWS, Kubernetes, Docker, Elixir"
+24/11/2020 11:32:24,28,Female,Berlin,,7,7,Middle,Figma,
+24/11/2020 11:32:28,29,Female,Berlin,,8,5,Senior,,
+24/11/2020 11:32:48,32,Male,Berlin,,8,5,Senior,PHP,"PHP, SQL, AWS, Kubernetes, Docker"
+24/11/2020 11:32:57,44,Male,Berlin,,12,3,Senior,Java,"SQL, Go, Kubernetes, Docker"
+24/11/2020 11:33:08,,Male,Berlin,,,1,Senior,PHP,
+24/11/2020 11:33:33,35,Male,Munich,,11,3,Senior,Php,"Javascript / Typescript, AWS, Kubernetes, Docker"
+24/11/2020 11:33:45,33,Male,Munich,,15,4,Lead,Kubernetes,"AWS, Google Cloud, Azure, Docker"
+24/11/2020 11:33:46,29,Male,Berlin,,5,3,Senior,Go,"Java / Scala, AWS, Docker"
+24/11/2020 11:33:51,66,Male,Munich,,40,4,Lead,ruby on rails,"Javascript / Typescript, Ruby, SQL"
+24/11/2020 11:35:25,39,Female,Berlin,,10,10,Senior,Java,"Javascript / Typescript, SQL"
+24/11/2020 11:36:44,28,Male,Munich,,5,4,Senior,Kotlin,"Kotlin, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:37:39,34,Male,Munich,,5,5,Senior,JavaScript/ES6,
+24/11/2020 11:37:52,34,Male,Munich,,13,3,Lead,.NET,".NET, SQL"
+24/11/2020 11:38:10,32,Male,Munich,,7,5,Senior,Javascript,"Javascript / Typescript, Java / Scala"
+24/11/2020 11:38:14,38,Male,Stuttgart,,15,5,Lead,Hardware,
+24/11/2020 11:38:15,32,Male,Berlin,,10,10,Head,,
+24/11/2020 11:38:22,45,Male,Schleswig-Holstein,,26,18,Senior,C#,"C/C++, .NET, SQL"
+24/11/2020 11:39:21,48,Male,London,,23,0,,Google Cloud Platform,"Python, SQL, Go, Google Cloud, bash"
+24/11/2020 11:40:04,28,Male,Berlin,,3,2,Middle,Js,"Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker, Quorum"
+24/11/2020 11:40:05,29,Male,Konstanz area,,6,3,Middle,android,Kotlin
+24/11/2020 11:40:24,36,Male,Munich,,15,3,Senior,java,PHP
+24/11/2020 11:40:42,39,Male,Berlin,,10,2,Senior,C#,"Javascript / Typescript, .NET, SQL, Azure, Docker"
+24/11/2020 11:40:45,29,Male,Munich,,7,3,Senior,JavaScript ,"Kotlin, Javascript / Typescript, Java / Scala, Docker"
+24/11/2020 11:42:49,31,Male,Berlin,,11,6,Lead,Java,"Python, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:43:28,30,Male,Berlin,,5,5,Middle,Java,
+24/11/2020 11:43:34,30,Male,Munich,,8,2,Middle,,
+24/11/2020 11:43:49,33,Male,Frankfurt,,4,0,Middle,Java,
+24/11/2020 11:44:00,27,Male,Berlin,,5,1,Senior,Scala,Java / Scala
+24/11/2020 11:44:02,26,Female,Munich,,6,2,Middle,python,"Python, C/C++, SQL, Docker"
+24/11/2020 11:44:10,26,Male,Berlin,,8,3,Lead,Go,"Python, PHP, Javascript / Typescript, Go, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:44:18,31,Female,Berlin,,6,2,Middle,SQL,Python
+24/11/2020 11:44:34,30,Male,Berlin,,10,2,Senior,Scala,"Python, Java / Scala, AWS, Docker"
+24/11/2020 11:44:51,38,Male,Berlin,,17,3,Middle,,
+24/11/2020 11:44:59,43,Male,Berlin,,5,3,Senior,Kotlin,"Kotlin, Java / Scala"
+24/11/2020 11:45:28,33,Male,Berlin,,5,1,Middle,python,Kubernetes
+24/11/2020 11:45:31,31,Male,Berlin,,9,,Senior,"C#, .net core","Python, .NET, AWS, Azure, Kubernetes, Docker"
+24/11/2020 11:46:15,32,Female,Berlin,,10,,Senior,Java,"Kotlin, Javascript / Typescript, SQL, Docker"
+24/11/2020 11:46:16,24,Male,Berlin,,4,2,Senior,Python,"Python, AWS, Docker"
+24/11/2020 11:46:21,29,Male,Berlin,,7,1,Lead,Kubernetes,"Python, Go, AWS, Kubernetes"
+24/11/2020 11:46:42,29,Male,Berlin,,4,4,Senior,Python,"SQL, AWS, Docker"
+24/11/2020 11:46:48,30,Male,Munich,,5,5,Senior,VHDL,Python
+24/11/2020 11:48:46,35,Female,Berlin,,3,2,Middle,Power BI,"Python, Javascript / Typescript, SQL, SAP / ABAP, Google Cloud, Azure"
+24/11/2020 11:48:57,27,Female,Hamburg,,6,1,Senior,,
+24/11/2020 11:49:06,32,Female,Berlin,,8,8,No level,,
+24/11/2020 11:49:42,33,Male,Munich,,5,1,Senior,Java,Docker
+24/11/2020 11:50:04,28,Male,Berlin,,8,3,Lead,PHP ,"Python, Javascript / Typescript, .NET, SQL, AWS, Azure, Kubernetes, Docker"
+24/11/2020 11:50:47,31,Female,Munich,,14,7,Middle,none,
+24/11/2020 11:50:51,32,Male,Munich,,7,3,Senior,Android,Kotlin
+24/11/2020 11:50:52,30,Male,Berlin,,8,2.5,Senior,Scala,"Python, Kotlin, Java / Scala, SQL, Kubernetes, Docker"
+24/11/2020 11:50:56,26,Male,Munich,,7,"1,5",Senior,Java,
+24/11/2020 11:51:35,31,Male,Munich,,10,2,Senior,Java,"Python, Javascript / Typescript, SQL, Kubernetes, Docker"
+24/11/2020 11:52:49,38,Female,Munich,,6,2,Middle,Java,
+24/11/2020 11:53:56,37,Male,Berlin,,10,3,Senior,PHP,"PHP, Javascript / Typescript, SQL"
+24/11/2020 11:54:06,25,Male,Munich,,3,1,Middle,Java,"Python, SQL, AWS, Azure, Kubernetes, Docker"
+24/11/2020 11:54:18,36,Male,Berlin,,12,4,Senior,JavaScript,"Javascript / Typescript, AWS, Docker"
+24/11/2020 11:54:32,27,Male,Munich,,5,1,Senior,Swift,"Kotlin, Ruby"
+24/11/2020 11:55:06,35,Male,Frankfurt,,12,10,Senior,ML,"Python, Java / Scala, R, SQL, AWS, Azure"
+24/11/2020 11:55:07,37,Male,Munich,,15,2,Senior,php,"PHP, Javascript / Typescript, SQL, Docker"
+24/11/2020 11:55:33,26,Male,Munich,,3,2,Middle,Python,"Python, SQL, AWS, Docker"
+24/11/2020 11:55:57,33,Male,Frankfurt,,6,6,Middle,Python,"SQL, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 11:56:00,34,Male,Berlin,,7,1,Senior,JavaScript,Docker
+24/11/2020 11:56:05,33,Male,Berlin,,12,6,Lead,PHP,"Javascript / Typescript, SQL, AWS, Docker"
+24/11/2020 11:56:25,,Male,Berlin,,6,6,Middle,Javascript,"Javascript / Typescript, AWS"
+24/11/2020 11:56:47,29,Male,Berlin,,8,0,Senior,Scala,"Java / Scala, AWS, Kubernetes, Docker"
+24/11/2020 11:56:56,24,Male,Munich,,5,2,Middle,C++,"Javascript / Typescript, Go"
+24/11/2020 11:57:37,28,Female,Munich,,6,2,Middle,,
+24/11/2020 11:57:53,30,Female,Berlin,,8,2,Senior,"Scala, React.js","Javascript / Typescript, SQL, AWS, Kubernetes, Docker"
+24/11/2020 11:57:55,28,Male,Cologne,,8,1,Senior,SQL,"Python, Javascript / Typescript"
+24/11/2020 11:58:24,31,Male,Munich,,11,1,Senior,PHP,"Javascript / Typescript, Java / Scala, AWS, Kubernetes, Docker"
+24/11/2020 11:59:14,28,Male,Munich,,5,3,Senior,iOS,Swift
+24/11/2020 11:59:20,32,Female,Kempten,,10,1,Middle,C#,"Javascript / Typescript, .NET, SQL"
+24/11/2020 11:59:33,28,Male,Berlin,,6,2,Senior,Java,"Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker"
+24/11/2020 11:59:38,26,Female,Munich,,3,1,Junior,Ml/Python,"Python, AWS, Docker"
+24/11/2020 12:00:01,33,Male,Berlin,,6,4,Middle,Swift,
+24/11/2020 12:00:20,41,Male,Munich,,18,3,Middle,,
+24/11/2020 12:00:59,31,Male,Berlin,,9,1,Senior,"C#, .net core","Python, Javascript / Typescript, .NET, AWS, Azure, Kubernetes, Docker"
+24/11/2020 12:01:01,30,Male,Munich,,6,1,Senior,Javascript,"Javascript / Typescript, AWS, Docker"
+24/11/2020 12:01:59,31,Male,Berlin,,8,1,Senior,JavaScript/TypeScript,"Javascript / Typescript, Google Cloud, Docker"
+24/11/2020 12:02:04,37,Male,Munich,,12,4,Senior,php,"Javascript / Typescript, Docker"
+24/11/2020 12:04:10,30,Male,Berlin,,10,5,Lead,Python,"Python, SQL"
+24/11/2020 12:04:15,34,Male,Munich,,17,6,Lead,Java,"Python, Java / Scala, R, SQL, Go, AWS, Google Cloud, Azure, Kubernetes, Docker"
+24/11/2020 12:06:20,25,Male,Munich,,5,0,Senior,Java,"Kotlin, Java / Scala, SQL, SAP / ABAP, Kubernetes, Docker"
+24/11/2020 12:06:41,36,Male,Berlin,,19,5,Senior,PHP,"Javascript / Typescript, SQL, AWS, Docker"
+24/11/2020 12:06:58,40,Male,Berlin,,7,1,Middle,Javascript,"PHP, Javascript / Typescript, Dart"
+24/11/2020 12:07:16,37,Male,Berlin,,6,6,Middle,,
+24/11/2020 12:07:26,35,Male,Munich,,13,4,Senior,Java,"Kotlin, Java / Scala, AWS"
+24/11/2020 12:07:43,42,Male,Berlin,,20,5,Senior,Ruby on Rails,"Ruby, Kubernetes, Docker"
+24/11/2020 12:07:44,34,Male,Berlin,,10,4,Senior,Java,"Python, Kotlin, Javascript / Typescript, Go, AWS, Kubernetes, Docker"
+24/11/2020 12:07:47,30,Male,Berlin,,6,2,Senior,Ruby,"SQL, Elixir"
+24/11/2020 12:08:51,35,Male,Berlin,,12,1,Senior,C#,".NET, SQL, Google Cloud, Kubernetes, Docker"
+24/11/2020 12:09:03,34,Male,Munich,,10,4,Senior,"Azure, SAP","SAP / ABAP, AWS, Google Cloud, Azure, Kubernetes, Docker"
+24/11/2020 12:09:06,35,Male,Berlin,,10,4,Senior,,
+24/11/2020 12:09:31,35,Male,Berlin,,14,1,Middle,,
+24/11/2020 12:09:50,28,Male,Hamburg,,7,,Senior,Scala,"Python, Java / Scala, Perl"
+24/11/2020 12:09:55,26,Male,Münster,,5.5,3,Junior,Python,"Python, C/C++, SQL, AWS"
+24/11/2020 12:10:03,35,Male,Berlin,,4,1,Middle,JavaScript,PHP
+24/11/2020 12:10:05,31,Female,Munich,,7,3,Senior,Java,"Python, Ruby"
+24/11/2020 12:11:42,35,Male,Frankfurt,,12,3,Senior,java,"Python, Kotlin, Javascript / Typescript, Java / Scala, Docker"
+24/11/2020 12:12:16,28,Male,Berlin,,3,3,Middle,,
+24/11/2020 12:12:35,25,Male,Berlin,,4,1,Middle,Python,"SQL, Go"
+24/11/2020 12:13:24,42,Female,Berlin,,20,1,Middle,python,"Python, Javascript / Typescript"
+24/11/2020 12:14:03,30,Male,Berlin,,7,5,Head,,"Python, SQL"
+24/11/2020 12:14:23,40,Female,Munich,,20,7,Middle,Java,SQL
+24/11/2020 12:14:27,36,Female,Erlangen,,14,2,Middle,,Python
+24/11/2020 12:14:52,37,Male,Berlin,,8,5,Junior,Java,"Java / Scala, AWS, Kubernetes, Docker"
+24/11/2020 12:15:30,33,Male,Munich,,10,3,Senior,Java,"AWS, Docker"
+24/11/2020 12:16:38,38,Male,Cologne,,11,5,Senior,PHP,"PHP, Javascript / Typescript, Go, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 12:16:49,27,Male,Munich,,4,0,Senior,Frontend,Javascript / Typescript
+24/11/2020 12:17:15,33,Male,Berlin,,7,7,Senior,"Java, JavaScript","Javascript / Typescript, Java / Scala, SQL"
+24/11/2020 12:17:21,34,Male,Vienna,,12,3,Senior,,"Python, SQL, AWS, Azure"
+24/11/2020 12:17:32,36,Female,Munich,,5,1,Middle,PHP,"Javascript / Typescript, Docker"
+24/11/2020 12:17:51,42,Male,Berlin,,22,4,Lead,yaml,"Python, PHP, Javascript / Typescript, SQL, Go, Perl, AWS, Google Cloud, Azure, Kubernetes, Docker"
+24/11/2020 12:18:41,32,Male,Frankfurt,,10,2,Senior,Python ,"Python, Docker"
+24/11/2020 12:21:10,31,Male,Berlin,,10,1.5,Senior,Javascript,"Javascript / Typescript, SQL, Google Cloud, Docker"
+24/11/2020 12:21:33,33,Female,Berlin,,6,0.5,Middle,Java,"Python, Kubernetes"
+24/11/2020 12:21:45,40,Male,Berlin,,10,7,VP,JS,"Javascript / Typescript, AWS"
+24/11/2020 12:23:06,28,Male,Moldova,,4,0,Middle,Java ,"Kotlin, Java / Scala"
+24/11/2020 12:23:47,28,Male,Munich,,6,5,Senior,Java,"Javascript / Typescript, Java / Scala, SQL"
+24/11/2020 12:23:50,46,Male,Munich,,4,1.5,Senior,,
+24/11/2020 12:26:12,31,Male,Berlin,,9,4,Senior,Python,"Python, SQL, AWS, Kubernetes, Docker"
+24/11/2020 12:26:20,28,Male,Berlin,,5,1.5,Lead,Swift,
+24/11/2020 12:27:21,29,Male,Berlin,,8,3,Middle,PHP,"PHP, Javascript / Typescript, SQL, AWS, Docker"
+24/11/2020 12:27:23,40,Male,Munich,,25,2,Lead,Swift,"Swift, Objective-C"
+24/11/2020 12:28:08,46,Male,Munich,,13,13,Senior,Java,SQL
+24/11/2020 12:28:14,33,Male,Berlin,,5,2,Middle,Java,
+24/11/2020 12:28:23,33,Male,Berlin,,10,5,Middle,Python,"Python, C/C++, Pytorch"
+24/11/2020 12:28:45,34,Male,Berlin,,14,4,Lead,Java,"Kotlin, Javascript / Typescript, Java / Scala, AWS, Kubernetes, Docker"
+24/11/2020 12:28:58,36,Male,Berlin,,18,1,Senior,PHP,"PHP, AWS, Google Cloud"
+24/11/2020 12:29:35,33,Female,Berlin,,8,1.5,Senior,-,Python
+24/11/2020 12:30:03,32,Male,Berlin,,11,6,Lead,Android,"Python, Kotlin, Swift, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 12:35:28,46,Male,Berlin,,14,14,Senior,JavaScript,"PHP, Javascript / Typescript, SQL, Google Cloud, Docker"
+24/11/2020 12:36:04,30,Male,Munich,,8,1,Senior,Kotlin,"Kotlin, Java / Scala"
+24/11/2020 12:36:13,36,Male,Rosenheim,,12,0.5,Manager,Python,"R, SQL, AWS, Azure, Docker"
+24/11/2020 12:37:20,35,Male,Berlin,,10,5,Senior,php,"PHP, Javascript / Typescript"
+24/11/2020 12:38:26,47,Male,Munich,,20,1,Senior,,"PHP, SQL, AWS, Azure, Kubernetes, Docker"
+24/11/2020 12:40:25,31,Male,Berlin,,10,5,Lead,Python ,"Kubernetes, Docker"
+24/11/2020 12:41:45,46,Male,Munich,,12,8,Senior,Agile,"C/C++, PHP, .NET, SQL"
+24/11/2020 12:44:38,26,Male,Berlin,,6,2,Senior,Kotlin,"Kotlin, Java / Scala"
+24/11/2020 12:44:58,31,Male,Mannheim ,,10,3,Senior,C,"Python, C/C++"
+24/11/2020 12:47:46,31,Male,Munich,,12,1.5,Lead,"TypeScript, JavaScript","Javascript / Typescript, Docker"
+24/11/2020 12:48:17,30,Female,Berlin,,5,3,Middle,Python ,"Python, Kubernetes, Docker, Ansible"
+24/11/2020 12:50:06,35,Male,Munich,,13,4,Lead,Pegasystems platform ,"C/C++, Javascript / Typescript, Java / Scala, SQL, Docker"
+24/11/2020 12:51:24,33,Male,Berlin,,12,5,Senior,Javascript,"PHP, Javascript / Typescript, SQL, Docker"
+24/11/2020 12:52:56,36,Male,Berlin,,7,5,Middle,"C++, Java, Embedded C","Python, C/C++, .NET, Java / Scala"
+24/11/2020 12:54:46,36,Male,Munich,,12,5,Lead,Cloud,"Kotlin, Java / Scala, AWS, Kubernetes, Docker"
+24/11/2020 12:55:11,40,Male,Munich,,13,1,Senior,,".NET, Azure"
+24/11/2020 12:55:30,38,Male,Frankfurt,,6,2,Work Center Manager,DC Management,
+24/11/2020 12:55:58,35,Female,Berlin,,15,6,Senior,C#,.NET
+24/11/2020 12:58:38,32,Male,Munich,,9,2,Senior,Java,"Javascript / Typescript, Kubernetes, Docker, Angular"
+24/11/2020 12:59:10,29,Male,Berlin,,8,2,Senior,Go,"Python, Javascript / Typescript, Go"
+24/11/2020 13:00:56,30,Male,Rosenheim,,9,5,Middle,Java,"Javascript / Typescript, SQL"
+24/11/2020 13:01:17,35,Male,Berlin,,10,2,Lead,Scala,"Java / Scala, SQL, AWS, Kubernetes, Docker"
+24/11/2020 13:02:04,29,Male,Berlin,,7,5,Senior,Python,Javascript / Typescript
+24/11/2020 13:05:17,32,Female,Berlin,,10,"4,5",Senior,,
+24/11/2020 13:05:30,30,Female,Munich,,10,3.5,Senior,Swift,"Kotlin, Javascript / Typescript"
+24/11/2020 13:05:53,25,Male,Berlin,,6,1,Middle,Java,
+24/11/2020 13:07:04,43,Male,Berlin,,20,4,Senior,Python,"SQL, AWS, Docker"
+24/11/2020 13:07:24,38,Male,Berlin,,16,1,Senior,Python,"Python, Javascript / Typescript, Java / Scala, SQL, AWS, Kubernetes, Docker"
+24/11/2020 13:09:38,26,Male,Berlin,,5,2,Middle,Scala,"Java / Scala, SQL, Google Cloud, Docker"
+24/11/2020 13:09:51,25,Female,Munich,,3,0.5,Middle,--,
+24/11/2020 13:11:21,34,Male,Munich,,12,5,Lead,python,"Python, Javascript / Typescript, SQL, AWS, Docker"
+24/11/2020 13:14:01,34,Male,Munich,,11,1,Senior,,
+24/11/2020 13:14:33,27,Male,Berlin,,5,1,Middle,Java,"AWS, Docker"
+24/11/2020 13:16:52,30,Male,Berlin,,3,2,Senior,Swift,"Kotlin, .NET, Java / Scala, Dart"
+24/11/2020 13:21:22,34,Male,Berlin,,5,5,Middle,Python,"C/C++, SQL, AWS, Docker"
+24/11/2020 13:23:32,36,Female,Berlin,,14,7,Lead,Java,Kotlin
+24/11/2020 13:25:44,27,Male,Berlin,,5,1,Middle,Java,"AWS, Docker"
+24/11/2020 13:25:57,45,Male,Berlin,,10,4,Lead,SWIFT,"Swift, Javascript / Typescript, Java / Scala, Google Cloud"
+24/11/2020 13:29:21,35,Male,Berlin,,6,2,Senior,"Java, angular, Aws","Python, Javascript / Typescript, Java / Scala, SQL, AWS, Docker"
+24/11/2020 13:32:34,36,Male,Berlin,,7,1,Lead,"Swift, objective-c","Kotlin, Swift, Go, AWS, Kubernetes, Docker"
+24/11/2020 13:33:08,32,Male,Stuttgart,,9,9,Senior,Java,"R, SQL, Perl, Docker"
+24/11/2020 13:35:41,33,Male,Boeblingen,,14,4,Senior,Golang,"Python, Javascript / Typescript, SQL, Go, Perl, Google Cloud, Kubernetes, Docker"
+24/11/2020 13:36:54,30,Male,Berlin,,10,2,Middle,PHP,"Kotlin, Java / Scala, SQL, AWS, Docker"
+24/11/2020 13:37:05,35,Male,Berlin,,15,4,Senior,go,"PHP, Javascript / Typescript, Perl, AWS, Kubernetes, Docker"
+24/11/2020 13:37:57,24,Male,Boeblingen,,0.8,0.8,Junior,Java,C/C++
+24/11/2020 13:40:28,25,Male,Stuttgart,,4,2,Middle,Java,"Javascript / Typescript, .NET"
+24/11/2020 13:40:53,29,Male,Berlin,,8,4,Senior,Kotlin,"Kotlin, Javascript / Typescript, Dart"
+24/11/2020 13:41:26,32,Male,Berlin,,10,3,Lead,DevOps,"Python, AWS, Azure, Kubernetes, Docker"
+24/11/2020 13:42:43,32,Male,Düsseldorf,,11,7,Senior,.net,"Javascript / Typescript, Java / Scala, Go"
+24/11/2020 13:50:23,24,Male,Munich,,3,2,Middle,Node.js,"Swift, Javascript / Typescript, Go, AWS, Kubernetes, Docker"
+24/11/2020 13:51:23,24,Female,Stuttgart,,2,1,Middle,iOS,"Swift, Flutter"
+24/11/2020 13:53:01,56,Male,Ingolstadt,,9,9,Senior,R,"R, SQL"
+24/11/2020 13:54:47,53,Male,Stuttgart,,15,15,Senior,"Java, Javascript",Javascript / Typescript
+24/11/2020 13:55:19,25,Male,Munich,,1,1,Middle,Python,"Python, C/C++, Swift, Matlab "
+24/11/2020 13:55:19,32,Male,Berlin,,9,5,Lead,,"PHP, Javascript / Typescript, .NET, SQL, Google Cloud, Kubernetes, Docker"
+24/11/2020 13:55:55,28,Male,Stuttgart,,8,1,Senior,C++,Python
+24/11/2020 13:56:32,32,Male,Berlin,,,3,Senior,Ruby,"Javascript / Typescript, Go, AWS, Docker"
+24/11/2020 13:58:11,30,Male,Munich,,7,5,Senior,C++,
+24/11/2020 14:00:19,26,Female,Berlin,,6,4,Senior,.NET,".NET, SQL, Azure, Docker"
+24/11/2020 14:01:01,31,Female,Stuttgart,,4,2,Middle,R,"Python, R, Azure"
+24/11/2020 14:02:22,31,Male,Munich,,9,1,Middle,C++,Java / Scala
+24/11/2020 14:03:04,29,Female,Stuttgart,,6,2,Middle,JS,
+24/11/2020 14:03:07,33,Male,Munich,,15,3,Lead,Scala,"Javascript / Typescript, Java / Scala, SQL, AWS, Docker"
+24/11/2020 14:04:28,26,Male,Munich,,1.5,1.5,Junior,Python,"C/C++, PyTorch"
+24/11/2020 14:06:46,30,Female,Frankfurt,,6,4,Senior,Bash,"Python, Java / Scala, SQL, AWS, Azure"
+24/11/2020 14:07:23,34,Male,Berlin,,14,5,Senior,C#,"Javascript / Typescript, .NET, SQL, AWS, Docker"
+24/11/2020 14:07:23,37,Male,Berlin,,12,10,Head,Python,"Python, PHP, Javascript / Typescript, SQL, Docker"
+24/11/2020 14:13:21,38,Male,Frankfurt,,16,1,Lead,.Net,"Javascript / Typescript, .NET, SQL, AWS, Azure, Kubernetes, Docker"
+24/11/2020 14:13:25,28,Male,Munich,,9,3,Senior,Network,
+24/11/2020 14:14:23,35,Male,Stuttgart,,14,8,Senior,,"AWS, Google Cloud"
+24/11/2020 14:17:20,31,Male,Berlin,,10,5,Senior,nothing,Python
+24/11/2020 14:21:40,29,Male,Düsseldorf,,1,1,Junior,Python,
+24/11/2020 14:24:07,39,Male,Munich,,5,5,Middle,"Qlik BI Tool, SQL","Javascript / Typescript, SQL"
+24/11/2020 14:26:28,31,Female,Berlin,,11,2,Middle,,"Adobe Cloud, Sketch, 3Ds Max"
+24/11/2020 14:28:29,39,Male,Munich,,12,6,Lead,PHP,"Javascript / Typescript, Kubernetes, Docker"
+24/11/2020 14:28:35,29,Male,Munich,,8,4,Senior,Java,SQL
+24/11/2020 14:29:49,36,Male,Nürnberg,,1,0.5,Junior,Javascript,"PHP, SQL"
+24/11/2020 14:30:08,33,Male,Berlin,,10,2,Middle,Swift,"Ruby, Objective C"
+24/11/2020 14:30:58,35,Male,Frankfurt,,12,2,Senior,,
+24/11/2020 14:31:59,31,Male,Berlin,,9,5,Senior,Python,"Kotlin, SQL, AWS, Docker, Spark"
+24/11/2020 14:34:00,38,Male,Berlin,,11,1,Senior,Javascript,"Python, Javascript / Typescript, SQL, AWS, Docker"
+24/11/2020 14:34:18,37,Male,Berlin,,15,3,Senior,Cloud,"Python, .NET, Azure, Kubernetes, Docker"
+24/11/2020 14:34:36,34,Male,Munich,,7,"1,7",Middle,,
+24/11/2020 14:34:38,30,Male,Ansbach,,4,3,Junior,PHP,Javascript / Typescript
+24/11/2020 14:37:11,34,Male,Munich,,14,6,Head,Blockchain,"Python, Kotlin, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 14:37:19,33,Male,Berlin,,12,2,Senior,PHP,"SQL, Go, AWS, Docker"
+24/11/2020 14:38:11,43,Male,Berlin,,5,1.5,Middle,Java,Kotlin
+24/11/2020 14:40:25,32,Female,Stuttgart,,2,2,Junior,Java,
+24/11/2020 14:42:18,34,Male,Leipzig,,14,2,Senior,Android,"Kotlin, Java / Scala, Azure"
+24/11/2020 14:47:18,29,Male,Berlin,,9,5,Senior,Java,"Kotlin, SQL, Azure, Kubernetes, Docker, Mongo"
+24/11/2020 14:49:06,37,Male,Berlin,,14,5,Senior,Angular,"Javascript / Typescript, Azure, Kubernetes, GraphQL"
+24/11/2020 14:49:52,41,Male,Munich,,19,5,Senior,Autonomous Driving,C/C++
+24/11/2020 14:52:12,33,Male,Mannheim,,6,2,Middle,c#,.NET
+24/11/2020 14:54:48,33,Female,Berlin,,9,2,Middle,Java,
+24/11/2020 14:56:33,40,Male,Munich,,18,14,Lead,Java,"SQL, AWS, Kubernetes, Docker, Groovy"
+24/11/2020 14:58:11,38,Male,Munich,,12,12,Senior,Java,"PHP, Javascript / Typescript, SQL"
+24/11/2020 15:03:12,29,Male,Munich,,5,"3,5",Middle,"Js, TypeScript, Angular",
+24/11/2020 15:04:23,27,Male,Berlin,,7,0,Senior,go,"SQL, Go, AWS, Kubernetes, Docker"
+24/11/2020 15:05:21,39,Male,Berlin,,10,5,Lead,,
+24/11/2020 15:07:35,33,Male,Frankfurt,,10,1,Senior,.NET,"Javascript / Typescript, SQL, Azure"
+24/11/2020 15:07:35,28,Male,Berlin,,8,5,Senior,Javascript,
+24/11/2020 15:08:28,33,Female,Munich,,6.5,3,Senior,,
+24/11/2020 15:09:28,38,Male,Munich,,10,3,Lead,Python,"SQL, AWS, Azure, Kubernetes, Docker"
+24/11/2020 15:10:18,42,Male,Berlin,,20,20,Senior,Python,"Java / Scala, SQL, AWS, Google Cloud, Azure, Docker"
+24/11/2020 15:16:47,45,Female,Frankfurt,,6,0.9,Senior,T-SQL,
+24/11/2020 15:17:34,38,Male,Hamburg,,12,6,Senior,Java,"Python, Java / Scala, AWS, Docker"
+24/11/2020 15:17:54,29,Male,Berlin,,9,2,Senior,,"SQL, AWS, Kubernetes"
+24/11/2020 15:21:19,30,Male,Berlin,,11,2,Senior,Kotlin,"Kotlin, .NET, SQL, AWS"
+24/11/2020 15:22:10,32,Male,Berlin,,9,5,Lead,JavaScript,"Javascript / Typescript, Ruby, AWS, Kubernetes, Docker"
+24/11/2020 15:27:01,41,Male,Munich,,21,3,Senior,Java,"Kubernetes, Docker"
+24/11/2020 15:28:50,34,Male,Berlin,,10,4,Senior,python,"Javascript / Typescript, AWS, Kubernetes"
+24/11/2020 15:31:46,45,Male,Berlin,,25,20,Lead,c++,"Python, C/C++, Javascript / Typescript, Ruby, .NET, Java / Scala, SQL, Go, AWS, Kubernetes"
+24/11/2020 15:32:59,34,Male,Berlin,,6,6,Middle,"Java, terraform","Python, Kotlin, Javascript / Typescript, Java / Scala, AWS, Kubernetes, Docker"
+24/11/2020 15:37:24,25,Male,Stuttgart,,7,1,Senior,PHP,"Python, PHP, Javascript / Typescript, SQL"
+24/11/2020 15:38:09,32,Male,Berlin,,12,1.5,Senior,iOS,"Swift, objective-c"
+24/11/2020 15:39:13,65,Male,Berlin,,25,25,Senior,"Pascal, VB.NET, C#",".NET, SQL"
+24/11/2020 15:41:16,33,Male,Munich,,10,4,Senior,Java,SQL
+24/11/2020 15:41:45,34,Male,Berlin,,12,3,Senior,Python,"Python, SQL, Google Cloud, Kubernetes, Docker"
+24/11/2020 15:42:31,28,Male,Berlin,,7,1,Senior,PHP,"Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker"
+24/11/2020 15:47:19,,Male,Berlin,,7.5,1.5,Middle,SQL,"Python, SQL, AWS, Kubernetes, Docker"
+24/11/2020 15:56:31,39,Male,Munich,,17,5,Senior,Oracle,SQL
+24/11/2020 15:59:02,30,Male,Berlin,,7,2,Senior,Ruby,"Javascript / Typescript, SQL, Go, AWS, Docker"
+24/11/2020 15:59:17,34,Male,Berlin,,12,2,Senior,Java,"Go, AWS, Kubernetes, Docker"
+24/11/2020 16:02:11,35,Male,Berlin,,10,4,Senior,PHP,"SQL, AWS, Docker"
+24/11/2020 16:03:27,35,Female,Berlin,,12,5,Middle,Javascript ,"AWS, Docker"
+24/11/2020 16:05:55,34,Male,Berlin,,10,3,Senior,"Angular, React","Python, Javascript / Typescript, Docker"
+24/11/2020 16:06:53,34,Male,Berlin,,12,2,Lead,.net,"Javascript / Typescript, .NET, SQL, Azure"
+24/11/2020 16:14:57,35,Male,Berlin,,8,1,Senior,Elixir,Erlang
+24/11/2020 16:15:34,38,Male,Berlin,,13,6,Lead,Java,Kotlin
+24/11/2020 16:16:41,34,Female,Berlin,,9,3,Senior,Kotlin,"Python, Kotlin, Java / Scala, Google Cloud, Kubernetes, Docker"
+24/11/2020 16:20:42,31,Male,Berlin,,7,"3,5",Senior,iOS,Swift
+24/11/2020 16:26:30,34,Male,Berlin,,15,5,Senior,Elixir,"Javascript / Typescript, Ruby, SQL, Google Cloud, Kubernetes, Docker"
+24/11/2020 16:34:40,29,Female,Munich,,5,4,Middle,"NodeJS, Typescript, AWS","Javascript / Typescript, Java / Scala, AWS"
+24/11/2020 16:35:30,37,Male,Berlin,,15,3,Senior,Scala,"Python, Java / Scala, Docker"
+24/11/2020 16:42:53,44,Male,Stuttgart,,22,3,Senior,Erlang,"Python, SQL, Docker"
+24/11/2020 16:56:17,30,Male,Munich,,9,3,Middle,TypeScript,"Javascript / Typescript, Kubernetes"
+24/11/2020 17:01:00,26,Male,Frankfurt,,4,4,Middle,JavaScript,"Python, Javascript / Typescript"
+24/11/2020 17:03:03,33,Diverse,Hamburg,,1,6,Middle,Scala,"Python, SQL, Kubernetes, Docker"
+24/11/2020 17:04:09,46,Male,Berlin,,14,14,Senior,JavaScript,"PHP, Javascript / Typescript, SQL, Google Cloud, Docker"
+24/11/2020 17:05:17,33,Male,Berlin,,14,4,Senior,PHP,"PHP, Java / Scala"
+24/11/2020 17:08:51,27,Male,Tuttlingen,,4,4,Junior,C#,.NET
+24/11/2020 17:12:18,38,Male,Stuttgart,,15,8,Senior,C#,.NET
+24/11/2020 17:21:09,32,Male,Munich,,11,3.5,Senior,PHP,"PHP, Javascript / Typescript, Java / Scala, Docker"
+24/11/2020 17:24:17,36,Female,Berlin,,11,4,Senior,,
+24/11/2020 17:24:24,26,Male,Frankfurt,,7,1.5,Senior,Java,
+24/11/2020 17:27:43,29,Male,Berlin,,12,3,Senior,Go,"PHP, Go"
+24/11/2020 17:28:01,32,Male,Nürnberg,,8,2,Senior,"Java, JS","Javascript / Typescript, Java / Scala"
+24/11/2020 17:29:12,29,Male,Bonn,,5,2,Middle,Objective-C,Swift
+24/11/2020 17:29:25,33,Male,Hamburg,,10,3,Senior,Ruby,Elixir
+24/11/2020 17:29:51,,,Munich,,2,2,Middle,Python ,
+24/11/2020 17:30:40,32,Male,Munich,,9,3,Senior,QA,Java / Scala
+24/11/2020 17:31:48,34,Male,Berlin,,10,10,Senior,C++,Python
+24/11/2020 17:33:40,31,Male,Moscow,,2.5,0,Lead,Python,Python
+24/11/2020 17:35:27,29,Male,Munich,,7,1,Senior,TypeScript,"Javascript / Typescript, AWS"
+24/11/2020 17:35:46,33,Male,Munich,,10,4,Senior,C#,Javascript / Typescript
+24/11/2020 17:37:32,32,Male,Berlin,,4,1,Senior,Ruby,"Python, SQL, Go, AWS, Kubernetes, Docker"
+24/11/2020 17:38:29,47,Male,Hamburg,,22,10,Senior,C++/C#,"C/C++, .NET, SQL"
+24/11/2020 17:38:51,29,Male,Berlin,,8,1.5,Middle,Go,Python
+24/11/2020 17:39:35,28,Male,Munich,,5,6,Senior,C++,"Python, C/C++"
+24/11/2020 17:40:38,,Male,Hamburg,,,2,Senior,,"Kubernetes, Docker"
+24/11/2020 17:40:40,25,Male,Hamburg,,2,2,Middle,Python,.NET
+24/11/2020 17:40:57,32,Male,Munich,,9,1,Senior,ABAP,SAP / ABAP
+24/11/2020 17:43:34,45,Male,Munich,,3,< 1,Senior,Javascript / Typescript,
+24/11/2020 17:45:03,26,Male,Frankfurt,,3,1,Middle,Python ,"Python, Java / Scala"
+24/11/2020 17:45:39,29,Male,Munich,,8,0.25,Senior,Java/Kotlin,"Kotlin, C/C++, Java / Scala"
+24/11/2020 17:47:00,40,Male,Berlin,,18,2.5,Senior,php,"PHP, SQL, Go, Docker, Postgres"
+24/11/2020 17:47:42,27,Male,Munich,,5,1,Senior,Typescript / Angular,
+24/11/2020 17:51:26,27,Male,Munich,,5,1,Senior,Javascript,"Javascript / Typescript, Go"
+24/11/2020 17:53:18,38,Male,Koblenz,,20,2,Senior,,
+24/11/2020 17:55:30,22,Male,Warsaw,,3,0,Middle,PHP,
+24/11/2020 17:57:20,30,Male,Berlin,,9,5,Lead,Kubernetes,"Python, Google Cloud, Kubernetes, Docker"
+24/11/2020 17:57:39,30,Male,Hamburg,,6,0,Middle,.NET,"Javascript / Typescript, .NET, SQL, Docker"
+24/11/2020 18:01:03,29,Male,Munich,,8,3,Senior,C++,"Python, C/C++, Docker"
+24/11/2020 18:06:17,37,Male,Heidelberg,,15,7,Senior,ABAP,"Javascript / Typescript, SAP / ABAP"
+24/11/2020 18:09:09,28,Male,Berlin,,6,1.5,Middle,Kubernetes,"Python, Go, AWS, Kubernetes, Docker"
+24/11/2020 18:10:47,28,Female,Berlin,,8,0,Lead,Javascript,
+24/11/2020 18:10:54,26,Male,Karlsruhe,,5,5,,,"Python, Kotlin, Javascript / Typescript, Java / Scala, SQL, Kubernetes, Docker"
+24/11/2020 18:12:43,28,Male,Stuttgart,,5,1.5,Middle,Java,Linux
+24/11/2020 18:13:06,33,Male,Berlin,,13,3,Senior,Ruby,"Ruby, Java / Scala, Go, AWS, Kubernetes, Docker"
+24/11/2020 18:16:39,25,Male,Berlin,,5,0,Senior,Java,Python
+24/11/2020 18:19:49,38,Male,Köln,,7,2,Middle,,
+24/11/2020 18:22:41,40,Male,Frankfurt,,22,3,Senior,Java,"Kotlin, Javascript / Typescript, Java / Scala, Kubernetes, Docker"
+24/11/2020 18:25:30,28,Male,Munich,,9,1,Senior,React/Typescript,MongoDB
+24/11/2020 18:27:22,29,Male,Berlin,,11,2,Senior,Python,"Python, Go, AWS, Kubernetes, Docker"
+24/11/2020 18:31:25,,Male,Berlin,,9,1,Lead,Java,"AWS, Docker"
+24/11/2020 18:32:14,24,Male,Aachen,,3,2,Junior,Python,"Python, C/C++"
+24/11/2020 18:33:17,30,Male,Berlin,,4,2,Senior,Golang ,"Javascript / Typescript, .NET, SQL, Go, Kubernetes, Docker"
+24/11/2020 18:36:46,31,Male,Munich,,11,1,Middle,Python,Docker
+24/11/2020 18:37:32,44,Male,Munich,,28,6,Senior,C#,"C/C++, .NET, SQL"
+24/11/2020 18:39:05,35,Male,Düsseldorf,,5,2,Senior,,
+24/11/2020 18:39:13,41,Female,Munich,,12,12,Senior,,"Python, SQL, Azure"
+24/11/2020 18:40:13,32,Male,Berlin,,12,1,Senior,Java,"Python, SQL, AWS, Kubernetes, Docker"
+24/11/2020 18:44:33,28,Female,Mannheim,,4,4,Junior,,"PHP, SQL, Perl"
+24/11/2020 18:48:30,,Male,Karlsruhe ,,8,8,Lead,Python,"Python, C/C++, Javascript / Typescript, Java / Scala"
+24/11/2020 18:49:18,33,Male,Berlin,,10,1,Middle,iOS,Swift
+24/11/2020 18:49:33,46,Male,Munich,,10,2,Senior,Python ,"Javascript / Typescript, AWS"
+24/11/2020 18:50:28,27,Male,Berlin,,8,1,Middle,Angular,Javascript / Typescript
+24/11/2020 18:50:50,30,Male,Samara,,2,0,Middle,php,"PHP, Javascript / Typescript, SQL"
+24/11/2020 18:51:35,32,Male,Berlin,,5,3,Middle,Ruby,"Javascript / Typescript, AWS, Docker"
+24/11/2020 18:52:09,34,Male,Berlin,,15,2,Lead,Java,"Java / Scala, SQL"
+24/11/2020 18:53:16,33,Male,Berlin,,10,,Senior,Salesforce ,"Python, Javascript / Typescript, Apex"
+24/11/2020 18:53:57,26,Male,"Riga, Latvia",,4,0,Middle,javascript,"Javascript / Typescript, SAP / ABAP"
+24/11/2020 18:54:07,41,Male,Berlin,,19,7,Lead,Python,"C/C++, SQL, AWS, Kubernetes, Docker"
+24/11/2020 18:54:54,35,Male,Cologne,,14,7,Senior,C++,"Python, C/C++, SQL"
+24/11/2020 18:58:54,26,Male,Hamburg,,7,3.5,Senior,TypeScript,"Python, Javascript / Typescript, AWS, Docker"
+24/11/2020 18:59:20,27,Male,Berlin,,3,0,Middle,Kotlin,"Kotlin, Java / Scala"
+24/11/2020 18:59:38,24,Male,Munich,,3,2,Middle,Java/C++,"Python, C/C++, Javascript / Typescript, Java / Scala, SQL, Kubernetes"
+24/11/2020 19:07:37,35,Male,Hamburg,,13,3,Lead,Scala / Python,"Python, Ruby, Java / Scala, Google Cloud, Kubernetes, Docker"
+24/11/2020 19:07:57,31,Male,Dusseldorf,,7,3,Senior,C++,"Python, C/C++, Javascript / Typescript, SQL"
+24/11/2020 19:09:32,25,Male,Berlin,,5,0,Middle,Java,"Python, Kotlin, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 19:12:16,30,Male,Moscow,,2,,Middle,Python,"Python, SQL, Docker"
+24/11/2020 19:14:03,37,Male,Zurich,,20,"4 (in Switzerland), 0 (in Germany)",Middle,,
+24/11/2020 19:15:02,30,Male,Moscow,,5,0,Middle,C,C/C++
+24/11/2020 19:15:49,33,Male,Berlin,,5,5,Senior,,Python
+24/11/2020 19:19:30,35,Male,Berlin,,11,10,Senior,Java,"Python, Javascript / Typescript, .NET, Java / Scala, Kubernetes, Docker"
+24/11/2020 19:24:50,37,Male,Hamburg,,15,5,Senior,Java,"Python, Javascript / Typescript, Java / Scala, Go, AWS, Kubernetes, Docker"
+24/11/2020 19:30:15,36,Male,Hamburg,,10,5,Senior,Java/Scala,"Python, Go, AWS, Docker"
+24/11/2020 19:31:46,32,Female,Cologne,,4,4,Senior,Python,
+24/11/2020 19:40:48,38,Male,Berlin,,5,3,Lead,,"Python, C/C++, AWS, Kubernetes, Docker"
+24/11/2020 19:41:27,23,Male,Berlin,,4,1,Middle,Javascript,"Javascript / Typescript, SQL, AWS, Docker"
+24/11/2020 19:42:42,39,Male,Stuttgart,,11,3,Lead,PHP,"PHP, SQL, Kubernetes, Docker"
+24/11/2020 19:47:34,27,Female,Berlin,,3,3,Middle,Python,"Python, SQL, Google Cloud, Kubernetes, Docker"
+24/11/2020 19:48:24,50,Male,Berlin,,29,2,Lead,C++,"C/C++, PHP, SQL"
+24/11/2020 19:57:46,35,Female,Berlin,,15,1,Middle,,
+24/11/2020 20:00:02,40,Male,Berlin,,10,3,Middle,,"Python, R, Go"
+24/11/2020 20:01:18,35,Male,Helsinki,,11,2.5,Senior,python,"SQL, AWS, Docker"
+24/11/2020 20:02:15,29,Male,Berlin,,10,1,Senior,Ruby,Go
+24/11/2020 20:02:34,30,Male,Munich,,8,2,Lead,Swift,Swift
+24/11/2020 20:04:24,24,Male,Frankfurt,,3,0,Middle,JavaScript,"Javascript / Typescript, Docker"
+24/11/2020 20:04:37,28,Male,Würzburg,,8,0,Senior,Java,"Kotlin, Javascript / Typescript"
+24/11/2020 20:14:50,28,Male,Berlin,,9,2,Senior,PHP,"SQL, AWS, Docker"
+24/11/2020 20:15:27,37,Female,Berlin,,2,1,Middle,,
+24/11/2020 20:18:31,37,Male,Berlin,,8,5,Senior,Python ,"Python, Javascript / Typescript, SQL, Go, AWS, Google Cloud, Kubernetes, Docker"
+24/11/2020 20:23:25,33,Male,Berlin,,10,2,Lead,,"Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker"
+24/11/2020 20:23:56,30,Male,Kiev,,8,0,Middle,Web developer,"PHP, Javascript / Typescript, SQL, Docker"
+24/11/2020 20:25:32,30,Male,Munich,,4,1,Middle,JavaScript/Typescript,"PHP, SQL"
+24/11/2020 20:26:19,31,Male,Berlin,,4,2,Lead,Java,"Kotlin, SQL, AWS, Kubernetes, Docker"
+24/11/2020 20:26:20,,Male,Munich,,4,3,Middle,Java,"Javascript / Typescript, AWS, Kubernetes"
+24/11/2020 20:26:58,28,Female,Berlin,,3,3,Middle,Javascript,"PHP, Javascript / Typescript"
+24/11/2020 20:28:38,31,Female,Munich,,2,2,Middle,Java,SQL
+24/11/2020 20:28:49,34,Male,Berlin,,9,2,Senior,Android,"Kotlin, Java / Scala"
+24/11/2020 20:29:04,24,Male,Berlin,,4,3,Middle,PHP,"SQL, Kubernetes, Docker"
+24/11/2020 20:29:50,39,Male,Berlin,,15,3,Senior,Python,"Python, Ruby, Java / Scala, Go, Rust, AWS, Kubernetes, Docker, Terraform, helm, packer"
+24/11/2020 20:30:14,42,Male,Den Haag,,20,6,Senior,.NET,"Python, Javascript / Typescript, SQL, AWS, Docker"
+24/11/2020 20:37:40,26,Male,London,,8,0,Senior,"TypeScript, React","Javascript / Typescript, Google Cloud, Kubernetes, Docker"
+24/11/2020 20:38:22,31,Female,Frankfurt,,2,2,Junior,,
+24/11/2020 20:39:33,32,Female,Berlin,,7,3,Senior,Kotlin,"Python, Ruby"
+24/11/2020 20:41:20,30,Female,Berlin,,4,1,Middle,,Javascript / Typescript
+24/11/2020 20:41:21,23,Male,Berlin,,3,0,Lead,Swift,Swift
+24/11/2020 20:43:22,27,Female,Berlin,,3,1,Middle,,
+24/11/2020 21:04:58,27,Male,Amsterdam,,4,1,Middle,python,"Python, R, SQL, SAP / ABAP, AWS, Kubernetes, Docker"
+24/11/2020 21:05:56,27,Male,Berlin,,5,3.5,Lead,Python / JavaScript (React),"Python, Javascript / Typescript, SQL, AWS, Docker, React, Tailwindcss"
+24/11/2020 21:07:50,29,Male,Berlin,,8,4,Senior,JavaScript / typescript,
+24/11/2020 21:10:08,32,Male,Munich,,10,6,Senior,Java,"Javascript / Typescript, Go"
+24/11/2020 21:14:25,31,Male,Berlin,,11,4,Senior,Terraform,"PHP, SQL, AWS, Docker"
+24/11/2020 21:16:30,29,Male,Cracovia,,2,,Middle,JavaScript,"Javascript / Typescript, Angular"
+24/11/2020 21:21:56,26,Male,Berlin,,7,2,Middle,SQL,"Python, Javascript / Typescript, Google Cloud"
+24/11/2020 21:28:26,29,Male,Berlin,,5,"1,5",Middle,PHP,"Javascript / Typescript, SQL, Docker"
+24/11/2020 21:34:09,30,Male,Hamburg,,7,1,Senior,JavaScript,Javascript / Typescript
+24/11/2020 21:34:10,38,Male,Berlin,,10,4,Senior,Swift,"Swift, Objective-C"
+24/11/2020 21:36:24,32,Male,Berlin,,10,4,CTO,JAVA,"Python, C/C++"
+24/11/2020 21:37:44,25,Male,Berlin,,6,2,Middle,Apache Spark,"Python, Java / Scala"
+24/11/2020 21:38:24,24,Male,Berlin,,3,0,Junior,C#,"Javascript / Typescript, .NET, Kubernetes, Docker"
+24/11/2020 21:39:12,24,Male,Tallinn,,3,0,Junior,Java,"Python, SQL"
+24/11/2020 21:45:48,27,Male,Prague,,3,0,Middle,.NET,"Javascript / Typescript, Java / Scala, SQL"
+24/11/2020 21:47:25,34,Female,Berlin,,6,2,Senior,Ruby,"Ruby, Java / Scala, AWS, Kubernetes, Docker"
+24/11/2020 21:47:33,30,Male,Utrecht,,2,0,Middle,python,Google Cloud
+24/11/2020 21:52:03,27,Female,Munich,,2,2,Middle,JavaScript,Javascript / Typescript
+24/11/2020 22:04:32,46,Male,Frankfurt,,23,16,Senior,C#,"C/C++, Javascript / Typescript, .NET, SQL, Azure"
+24/11/2020 22:06:59,48,Male,Berlin,,,17,Senior,"Computer Networking,  Network Security ",SQL
+24/11/2020 22:08:31,42,Female,Munich,,12,12,No level ,Java,
+24/11/2020 22:10:34,40,Female,Berlin,,8,8,Senior,C#,"PHP, Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker, React, Angular2+"
+24/11/2020 22:17:23,23,Male,Stockholm,,5,1.5,Senior,Javascript,Javascript / Typescript
+24/11/2020 22:22:57,33,Male,Berlin,,,10,Senior,Java,"Java / Scala, Google Cloud, Kubernetes, Docker"
+24/11/2020 22:28:07,30,Male,Moscow,,2,0,Junior,Elixir,
+24/11/2020 22:34:48,40,Male,Braunschweig ,,11,11,Senior,SAP BW / ABAP,SAP / ABAP
+24/11/2020 22:41:24,38,Male,Dresden,,10,10,Lead,"Go, PHP, SQL","PHP, SQL, Go, AWS, Docker"
+24/11/2020 22:46:49,28,Male,Kyiv,,5,0,Senior,Swift,"Swift, Google Cloud"
+24/11/2020 22:52:26,38,Male,Berlin,,16,2,Senior,ABAP,"PHP, SQL, SAP / ABAP, Delphi"
+24/11/2020 23:09:13,32,Male,Hamburg,,12,7,Senior,Java,"Kotlin, PHP, Javascript / Typescript, Java / Scala"
+24/11/2020 23:20:02,33,Female,Berlin,,6,3,Middle,java,"SQL, AWS, Kubernetes, Docker"
+24/11/2020 23:38:34,34,Male,Berlin,,13,4,Lead,Kotlin ,"Python, Kotlin, C/C++, Java / Scala"
+24/11/2020 23:40:13,35,Female,Stuttgart ,,9,4,Middle,Jira,
+24/11/2020 23:42:24,37,Male,Stuttgart ,,9,5,Senior,Qml,C/C++
+24/11/2020 23:44:21,40,Male,Stuttgart,,14,14,Senior,C,C/C++
+24/11/2020 23:59:07,33,Male,Berlin,,10,5,Director,PHP,"PHP, Javascript / Typescript, Java / Scala, SQL, AWS, Docker"
+25/11/2020 00:01:55,36,Male,Munich,,15,6,Senior,AWS,"Javascript / Typescript, Java / Scala, AWS, Docker"
+25/11/2020 00:01:59,31,Female,Berlin,,,1,Senior,,
+25/11/2020 00:09:51,27,Male,Frankfurt,,5,3,Middle,C#/.NET,"C/C++, SQL, VBA"
+25/11/2020 00:41:34,28,Male,Berlin,,6,2,Middle,PHP,"Javascript / Typescript, SQL, Go, Docker"
+25/11/2020 01:12:28,23,Male,Warsaw,,4,0,Middle,PHP,"Javascript / Typescript, SQL, Docker"
+25/11/2020 01:29:48,31,Female,Berlin,,11,1.5,Middle,JS,"Ruby, SQL"
+25/11/2020 03:27:34,,,Berlin,,,,,,
+25/11/2020 05:58:16,34,Male,Tallinn,,12,0,Middle,PHP,"Javascript / Typescript, SQL, Go, Docker"
+25/11/2020 06:05:32,34,Male,Berlin,,10,2,Senior,.Net,Python
+25/11/2020 06:26:53,29,Male,Tallinn,,7,,Senior,Android,Kotlin
+25/11/2020 07:05:35,38,Male,Munich,,15,5,Senior,Javascript,"Javascript / Typescript, .NET, SQL, AWS, Kubernetes, Docker"
+25/11/2020 07:27:58,25,Female,Berlin,,4,1,Middle,Javascript / Typescript,NodeJS
+25/11/2020 07:38:11,28,Male,Berlin,,6,1,Senior,JavaScript,"Javascript / Typescript, Docker"
+25/11/2020 07:46:34,23,Male,Berlin,,3,3,Middle,JavaScript,AWS
+25/11/2020 07:56:59,30,Male,Munich,,10,4,Senior,.NET,"Python, Javascript / Typescript, Azure"
+25/11/2020 08:05:37,32,Male,Berlin,,10,5,Middle,JavaScript,"Javascript / Typescript, Ruby, Kubernetes, Docker"
+25/11/2020 08:08:50,28,Male,Berlin,,2,2,Junior,JavaScript,"Javascript / Typescript, Google Cloud"
+25/11/2020 08:12:21,31,Male,Berlin,,4,4,Junior,python,"Python, Java / Scala, AWS"
+25/11/2020 08:17:18,29,Male,Berlin,,6,2,Middle,,
+25/11/2020 08:35:46,40,Female,Berlin,,"1,5","1,5",Junior,JavaScript ,Ruby
+25/11/2020 08:39:38,42,Male,Berlin,,17,9,Senior,Go,"Ruby, AWS, Kubernetes, Docker"
+25/11/2020 08:43:21,40,Male,Berlin,,13,9,Head,,SQL
+25/11/2020 08:47:15,27,Male,Berlin,,6,3,Middle,Java,"C/C++, Kubernetes, Docker"
+25/11/2020 08:47:37,29,Male,Munich,,8,6,Middle,PHP,"Javascript / Typescript, SQL"
+25/11/2020 08:47:37,37,Male,Malta,,18,,Head,Go,"Google Cloud, Kubernetes, Docker, Shell"
+25/11/2020 08:54:22,23,Male,Berlin,,5,0,Middle,Python,"Python, C/C++, Javascript / Typescript, SQL, Docker"
+25/11/2020 08:55:24,35,Male,Munich,,14,2.5,Senior,Java,"Kotlin, Java / Scala, SQL, Kubernetes, Docker"
+25/11/2020 09:00:23,39,Male,Berlin,,11,9,Head,Python ,"Python, Kotlin, Java / Scala, AWS"
+25/11/2020 09:03:05,33,Male,Lübeck,,10,1,Middle,C#,"Javascript / Typescript, .NET"
+25/11/2020 09:04:25,31,Male,Berlin,,10,4,Lead,Python,"AWS, Docker"
+25/11/2020 09:05:26,38,Male,Berlin,,15,2,Head,Python,"Python, SQL, SAP / ABAP, AWS"
+25/11/2020 09:05:43,31,Male,Hamburg,,3,3,Lead,Python ,"Kubernetes, Docker"
+25/11/2020 09:05:48,24,Male,Cologne,,1,1,,Python,"SQL, Google Cloud, Kubernetes, Docker"
+25/11/2020 09:06:43,26,Female,Berlin,,2,1,Junior,Python,"R, SQL, AWS, Docker"
+25/11/2020 09:08:09,30,Male,Berlin,,10,4,Senior,Java,"PHP, Java / Scala"
+25/11/2020 09:14:40,33,Male,Munich,,9,9,Lead,Java,"Python, Kotlin, Javascript / Typescript, SQL, AWS, Docker"
+25/11/2020 09:15:08,33,Male,Munich,,11,1,Senior,Python,"Python, Javascript / Typescript, SQL, AWS"
+25/11/2020 09:22:40,31,Male,Berlin,,10,3,Senior,Swift,Swift
+25/11/2020 09:24:45,33,Male,Nuremberg ,,2,2,Middle,Python,"R, SQL, AWS, Kubernetes, Docker"
+25/11/2020 09:29:09,43,Male,Munich,,21,3,Senior,Java,"Javascript / Typescript, .NET, Java / Scala, Docker"
+25/11/2020 09:29:24,36,Male,Berlin,,14,5,Senior,Javascript,Javascript / Typescript
+25/11/2020 09:35:28,33,Male,Nürnberg,,9,9,Senior,Javascript / Typescript,"Python, Java / Scala, SQL, Azure, Docker"
+25/11/2020 09:40:44,36,Female,Berlin,,1,3,Middle,java,"Kubernetes, Docker"
+25/11/2020 09:44:24,27,Female,Munich,,1,1,Junior,"Kotlin, Java","Kotlin, Java / Scala"
+25/11/2020 09:45:51,33,Male,Berlin,,12,5,Lead,Go,"Go, AWS, Docker"
+25/11/2020 09:49:36,33,Male,Berlin,,2,2,Middle,SQL,Python
+25/11/2020 09:56:50,40,Male,Berlin,,11,11,Senior,Python,"Python, Java / Scala"
+25/11/2020 10:02:55,24,Female,Berlin,,2,2,Middle,,"Python, Javascript / Typescript, Java / Scala, SQL"
+25/11/2020 10:15:25,40,Male,Bodensee,,17,9,Lead,Linux Kernel,C/C++
+25/11/2020 10:26:16,37,Male,Munich,,13,2,Lead,,"Ruby, SQL, Go, AWS, Kubernetes, Docker"
+25/11/2020 10:31:01,35,Male,Frankfurt,,6,0.5,Senior,Javascript,
+25/11/2020 10:33:07,39,Male,Berlin,,7,4,Senior,several,"Python, SQL, AWS, Docker, unix shell scripts"
+25/11/2020 10:35:44,25,Male,Berlin,,6,2,Middle,Java,"Python, Java / Scala, Go, AWS, Kubernetes, Docker"
+25/11/2020 10:37:36,27,Male,Berlin,,4,1,Middle,C#,"Javascript / Typescript, .NET, Azure, Docker"
+25/11/2020 10:42:48,30,Male,Berlin,,3,3,Junior,,
+25/11/2020 10:44:20,28,Male,Berlin,,4,4,Middle,Python ,"Java / Scala, R, SQL, Docker, Julia "
+25/11/2020 10:50:19,36,Female,Munich,,10,3,Middle,javascript,Javascript / Typescript
+25/11/2020 10:53:48,29,Female,Berlin,,9,4,Lead,Java,"Javascript / Typescript, SQL, Docker"
+25/11/2020 10:53:55,37,Male,Berlin,,3,1,,Python,SQL
+25/11/2020 10:55:15,34,Male,Berlin,,10,0.5,Senior,Android/Kotlin,"Kotlin, Java / Scala"
+25/11/2020 10:56:28,28,Female,Berlin,,4,4,Middle,Python,"Python, SQL, Docker"
+25/11/2020 10:58:00,39,Male,Munich,,20,12,Lead,embedded,"C/C++, Clojure, Assembly"
+25/11/2020 10:58:13,,Male,Berlin,,15,,Senior,Java,
+25/11/2020 11:03:17,,Male,Leipzig,,,6,Middle,JavaScript,PHP
+25/11/2020 11:07:02,32,Male,Berlin,,6,0,Middle,PHP,"Python, PHP, Javascript / Typescript, SQL, AWS, Kubernetes, Docker"
+25/11/2020 11:08:17,37,Male,Berlin,,6,6,Middle,Java/Groovy,"AWS, Docker"
+25/11/2020 11:11:06,32,Male,Munich,,7,1,Senior,Python ,"Python, Javascript / Typescript, SQL, Docker"
+25/11/2020 11:13:31,28,Male,Berlin,,4,2,Key,,
+25/11/2020 11:15:53,35,Male,Munich,,16,8,Lead,PHP,"Javascript / Typescript, SQL, AWS, Kubernetes, Docker"
+25/11/2020 11:18:27,26,Male,Berlin,,5,3,Middle,Python ,"SQL, AWS, Kubernetes, Docker"
+25/11/2020 11:18:46,32,Male,Berlin,,7,1,Middle,Typescript,"Java / Scala, Kubernetes, Docker"
+25/11/2020 11:20:58,29,Male,Berlin,,5,5,Middle,Python,"Python, Java / Scala, SQL, AWS, Kubernetes, Docker"
+25/11/2020 11:21:08,36,Male,Berlin,,10,10,Senior,typescript,"Javascript / Typescript, .NET, Azure"
+25/11/2020 11:22:06,26,Male,Berlin,,5,2,Middle,Swift,
+25/11/2020 11:24:14,28,Male,Berlin,,5,1,Middle,Scala,Java / Scala
+25/11/2020 11:29:28,36,Male,Berlin,,5,5,Middle,python,"Python, SQL, AWS, Google Cloud"
+25/11/2020 11:30:04,40,Male,Munich,,18,18,Senior,java,"AWS, Docker"
+25/11/2020 11:37:31,29,Male,Milan,,4,0,Middle,Python + SQL,"Python, SQL, Spark"
+25/11/2020 11:39:11,32,Male,Berlin,,10,5,Middle,javascript,"Javascript / Typescript, SQL, AWS, Docker"
+25/11/2020 11:41:13,28,Male,Munich,,5,4,Middle,Java,"Javascript / Typescript, Java / Scala, AWS, Docker"
+25/11/2020 11:42:08,27,Male,Berlin,,7,3.5,Senior,Go,"Python, PHP, AWS, Google Cloud, Kubernetes, Docker"
+25/11/2020 11:47:34,33,Male,Berlin,,16,5,Senior,Java,"Python, Kotlin, Java / Scala, Go, Rust, AWS, Kubernetes, Docker"
+25/11/2020 11:48:54,34,Male,Munich,,5,2,Senior,Java,"Kotlin, Swift"
+25/11/2020 11:49:21,31,Male,Berlin,,8,3.5,Senior,Typescript,"Javascript / Typescript, Google Cloud, Kubernetes, Docker"
+25/11/2020 11:51:49,31,Male,Munich,,8,3,Senior,"Typescript, Web apps",Javascript / Typescript
+25/11/2020 11:54:11,31,Male,Berlin,,5,3,Middle,Python,"Python, Java / Scala, SQL, AWS, Docker"
+25/11/2020 11:54:25,27,Male,Berlin,,6,1,Middle,Python,AWS
+25/11/2020 11:56:27,31,Male,Hamburg,,9,9,Middle,Python,"Python, Docker"
+25/11/2020 11:57:58,29,Male,Berlin,,10,5,Senior,Scala,"Java / Scala, SQL, Go, Google Cloud, Kubernetes, Docker"
+25/11/2020 12:01:50,39,Male,Berlin,,6,1,Senior,PHP,"Javascript / Typescript, SQL, AWS, Docker"
+25/11/2020 12:04:41,35,Male,Berlin,,10,3,Senior,JavaScript,Javascript / Typescript
+25/11/2020 12:05:48,38,Male,Berlin,,24,1,Head,Java,"Kotlin, PHP, Swift, Javascript / Typescript, Java / Scala, Clojure, R, Rust, AWS, Google Cloud, Azure, Kubernetes, Docker"
+25/11/2020 12:06:58,31,Male,Salzburg,,10,2,C-level executive manager,Python,"Python, C/C++, AWS, Kubernetes, Docker"
+25/11/2020 12:15:16,32,Male,Berlin,,7,3.5,Senior,Swift,Javascript / Typescript
+25/11/2020 12:20:23,35,Male,Berlin,,10,3,Senior,Terraform ,"Python, AWS, Kubernetes"
+25/11/2020 12:21:48,28,Male,Rome,,2,0,Middle,Java,"Python, C/C++"
+25/11/2020 12:23:50,30,Female,Berlin,,6,5,Senior,python,"Python, SQL, Google Cloud, Kubernetes, Docker"
+25/11/2020 12:27:53,30,Male,Berlin,,5,4,Lead,,Python
+25/11/2020 12:29:33,26,Male,Berlin,,2,2,Middle,Python,"Python, SQL, AWS, Google Cloud, Kubernetes, Docker"
+25/11/2020 12:41:42,25,Male,Berlin,,3,3,Senior,Scala,"Python, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker"
+25/11/2020 12:44:08,30,Male,Berlin,,3,3,Junior,,
+25/11/2020 12:44:24,27,Male,Berlin,,4,4,Middle,AWS,"Python, AWS, Docker"
+25/11/2020 12:47:31,28,Male,Berlin,,7,0,Head,,
+25/11/2020 13:02:51,22,Male,Berlin,,4,4,Middle,"Java, .Net",".NET, Java / Scala, SQL, Go, AWS, Docker"
+25/11/2020 13:03:32,37,Female,Berlin,,2,2,Middle,Python,"R, SQL, AWS"
+25/11/2020 13:05:32,25,Male,Berlin,,1,0.5,Junior,"Python, statistics, SQL","Python, SQL, Google Cloud, Docker"
+25/11/2020 13:12:26,33,Male,Berlin,,11,4,Senior,Scala,"Java / Scala, AWS, Kubernetes, Docker"
+25/11/2020 13:16:43,38,Male,Berlin,,20,7,Head,C,"Python, C/C++, Docker"
+25/11/2020 13:20:02,31,Male,Berlin,,6,2.5,Senior,,"Python, SQL, AWS, Docker"
+25/11/2020 13:26:21,24,Male,Munich,,1,1,Junior,C++,"Python, C/C++, Swift, Java / Scala, R, SQL, Go, AWS, Google Cloud, Azure, Kubernetes, Docker"
+25/11/2020 13:37:21,28,Male,Berlin,,10,7,Lead,,AWS
+25/11/2020 13:37:26,25,Male,Berlin,,5,1,Senior,Node.js,"Javascript / Typescript, Google Cloud, Kubernetes"
+25/11/2020 13:39:11,26,Female,Berlin,,4,1,Middle,"Sql, BQ, tableau, gtm, ga","Python, Javascript / Typescript, SQL"
+25/11/2020 13:41:37,29,Male,Berlin,,3,3,Middle,React ,Javascript / Typescript
+25/11/2020 13:41:50,22,Female,Berlin,,4,1,Middle,Business Development Manager Operation ,
+25/11/2020 13:43:52,30,Male,Berlin,,4,2,Senior,TypeScript,Javascript / Typescript
+25/11/2020 13:45:22,30,Male,Berlin,,11,5,Senior,Typescript,Java / Scala
+25/11/2020 13:45:45,28,Female,Amsterdam,,10,3,Senior,Management,
+25/11/2020 13:49:33,29,Male,Berlin,,9,1,Senior,Javascript / Typescript,"Python, Javascript / Typescript, SQL, Perl, Docker"
+25/11/2020 13:50:55,32,Male,Cologne,,10,1,Middle,Bash,"Python, Google Cloud"
+25/11/2020 13:51:21,36,Male,Berlin,,4,4,Middle,C++,"Python, C/C++"
+25/11/2020 13:51:32,32,Male,Hamburg,,7,2,Senior,,SQL
+25/11/2020 13:54:19,30,Female,Berlin,,4,4,Middle,Python,"Python, Java / Scala, SQL, AWS, Kubernetes, Docker"
+25/11/2020 13:55:16,29,Male,Stuttgart ,,7,5,Middle,C++,
+25/11/2020 13:56:50,32,Female,Berlin,,10,"1,5",Middle,Java,Docker
+25/11/2020 13:57:19,34,Male,Berlin,,10,3,Senior,JS,"Python, Javascript / Typescript, AWS, Docker"
+25/11/2020 13:58:38,30,Male,Berlin,,6,3,Senior,,"Python, SQL, AWS, Google Cloud, Docker"
+25/11/2020 13:59:02,40,Male,Berlin,,15,6,Head,Python,"Python, SQL, Perl, AWS, Google Cloud, Docker"
+25/11/2020 13:59:16,35,Male,Berlin,,15,4,Principal,C++,"Python, Swift, Java / Scala"
+25/11/2020 14:00:05,31,Male,Berlin,,8,1,Senior,"Java, Kotlin","Kotlin, Java / Scala, AWS"
+25/11/2020 14:00:28,38,Male,Berlin,,15,3,Senior,Python,"Python, SQL, AWS"
+25/11/2020 14:02:47,39,Male,Hamburg,,10,10,Senior,R,"Python, R, SQL"
+25/11/2020 14:08:16,35,Male,Berlin,,13,5,Senior,Nodejs,"PHP, Javascript / Typescript"
+25/11/2020 14:08:18,30,Female,Berlin,,5,2,Middle,TS,
+25/11/2020 14:08:39,29,Female,Berlin,,0,0,intern,Python,"Python, SQL, AWS, Google Cloud, Docker"
+25/11/2020 14:08:48,36,Male,Berlin,,18,10,Head,C++,"Python, Swift, Java / Scala"
+25/11/2020 14:09:53,41,Male,Berlin,,20,5,Senior,Python,"Python, SQL, AWS, Kubernetes, Docker"
+25/11/2020 14:14:02,41,Male,Berlin,,18,7,Lead,PHP,"SQL, Google Cloud, Kubernetes, Docker"
+25/11/2020 14:21:26,28,Female,Berlin,,6,1,Senior,sql,"Python, R, SQL"
+25/11/2020 14:21:32,33,Male,Berlin,,10,3,Lead,javascript,"Javascript / Typescript, AWS, Docker"
+25/11/2020 14:26:49,31,Male,Munich,,3,3,Middle,JavaScript ,"Javascript / Typescript, Java / Scala"
+25/11/2020 14:27:14,29,Male,Berlin,,5,1,Senior,Java,"Java / Scala, SQL, AWS, Kubernetes, Docker"
+25/11/2020 14:32:04,23,Male,Berlin,,3,1,Middle,Java,
+25/11/2020 14:34:19,25,Male,Berlin,,4.5,2,Middle,"Spark, Pytorch",Python
+25/11/2020 14:35:03,34,Male,Berlin,,10,5,Lead,Java,"Javascript / Typescript, SQL, AWS, Docker"
+25/11/2020 14:37:06,45,Male,Berlin,,30,1,Senior,PHP,"Javascript / Typescript, Go, AWS, Google Cloud, Docker"
+25/11/2020 14:37:07,37,Male,Berlin,,15,1,Senior,C/C++,"Python, C/C++"
+25/11/2020 14:37:25,31,Male,Berlin,,9,5,Lead,javascript,"AWS, Docker"
+25/11/2020 14:48:38,32,Male,Amsterdam,,15,0,Senior,Golang,"Python, Javascript / Typescript, SQL, AWS, Kubernetes, Docker"
+25/11/2020 14:53:46,45,Female,Berlin,,15,7,Lead,Java,
+25/11/2020 14:55:16,42,Male,Wroclaw,,16,,Senior,java/scala/go/clouds/devops,"Java / Scala, Go, AWS, Google Cloud, Kubernetes, Docker"
+25/11/2020 14:56:08,23,Male,Berlin,,4,4 month,Middle,,"Python, SQL"
+25/11/2020 14:56:36,36,Male,Berlin,,14,12,Middle,JS,Docker
+25/11/2020 14:57:52,40,Male,Karlsruhe,,20,6,Lead,C#,"Python, .NET, Azure, Kubernetes, Docker"
+25/11/2020 14:58:22,28,Male,Berlin,,7,3,Senior,Java,"Ruby, Go, Perl"
+25/11/2020 14:58:40,35,Male,Frankfurt,,15,15,Senior,C,"Python, Javascript / Typescript, SQL, Docker"
+25/11/2020 15:03:27,37,Male,Berlin,,12,3,Senior,Java,"Javascript / Typescript, Java / Scala, Google Cloud, Docker"
+25/11/2020 15:03:59,33,Male,Berlin,,10,6,Lead,C/C++,C/C++
+25/11/2020 15:05:30,33,Male,Berlin,,13,5,Senior,Java,"Java / Scala, SQL, Kubernetes, Docker"
+25/11/2020 15:11:46,31,Male,Munich,,10,4,Lead,Java ,"Python, Javascript / Typescript, AWS, Docker"
+25/11/2020 15:16:59,31,Male,Berlin,,4,2,Middle,Java,"Kotlin, Javascript / Typescript, Docker"
+25/11/2020 15:27:18,28,Male,Wolfsburg,,3,1,Middle,Java,SQL
+25/11/2020 15:51:41,31,Male,Boeblingen,,6,3,Senior,Python,"Python, Squish"
+25/11/2020 15:53:21,40,Male,Cupertino,,20,0,Lead,Swift,
+25/11/2020 16:06:56,25,Female,Frankfurt,,3,2,Middle,Java,"Javascript / Typescript, SQL"
+25/11/2020 16:08:01,35,Male,Berlin,,9,9,Senior,Python,"Python, SQL, AWS, Kubernetes, Docker"
+25/11/2020 16:08:21,35,Male,Berlin,,15,10,Senior,.net,"C/C++, .NET, Go, Docker"
+25/11/2020 16:10:29,41,Male,Berlin,,20,14,Senior,"Linux/UNIX, GIT, Virtualisation Platforms, *shell(s) scripts","Python, Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker"
+25/11/2020 16:16:23,33,Male,Berlin,,8,3,Senior,AWS,"Python, AWS, Kubernetes, Docker"
+25/11/2020 16:17:02,33,Male,Berlin,,13,3,Senior,Python,"Python, Java / Scala, SQL, AWS, Kubernetes, Docker"
+25/11/2020 16:26:38,38,Male,Munich,,15,2,Senior,Java,"Java / Scala, Kubernetes, Docker"
+25/11/2020 16:39:24,35,Male,Berlin,,10,6,Senior,php,"Python, PHP, Javascript / Typescript, SQL"
+25/11/2020 16:42:43,36,Female,Berlin,,5,5,Senior,Python,"Python, Java / Scala, SQL, AWS"
+25/11/2020 16:50:22,49,Male,Munich,,27,19,Senior,Java,"Javascript / Typescript, Java / Scala, SQL, Docker, Groovy"
+25/11/2020 17:00:00,32,Male,Berlin,,10,7,Lead,TypeScript,Javascript / Typescript
+25/11/2020 17:02:13,32,Female,Berlin,,6,4,Lead,Java,"Python, Kotlin, AWS, Docker"
+25/11/2020 17:06:04,27,Female,Berlin,,1,1,Middle,"Python, SQL","Python, SQL"
+25/11/2020 17:08:54,31,Male,Frankfurt,,6,6,Senior,python,"Python, AWS, Docker"
+25/11/2020 17:09:19,31,Male,Paris,,8,0,Senior,Swift,Swift
+25/11/2020 17:11:50,28,Male,Cologne,,4,4,Middle,Java,Pl/sql
+25/11/2020 17:13:52,28,Female,Berlin,,3,3,Middle,JavaScript,
+25/11/2020 17:20:37,27,Male,Berlin,,2,1,Lead,DWH,SQL
+25/11/2020 17:20:50,29,Male,Berlin,,8,5,Head,JavaScript,"Kubernetes, Docker"
+25/11/2020 17:45:05,32,Female,Munich,,10,2,Middle,Python,"Python, SQL, AWS, Docker, Spark, Airflow"
+25/11/2020 17:45:21,28,Male,Berlin,,5,1,Middle,QA,Python
+25/11/2020 17:46:23,34,Female,Berlin,,13,3,Principal,python,"AWS, Terraform, Scala Spark, "
+25/11/2020 17:48:02,38,Male,Dublin ,,16,0,Senior,Swift,"Swift, Java / Scala"
+25/11/2020 17:48:12,29,Male,Berlin,,3,3,Middle,Azure,"Python, SQL, Azure"
+25/11/2020 17:49:56,30,Male,Stockholm,,7,2.5,Senior,C++,"Python, C/C++, Java / Scala, AWS, Kubernetes, Docker"
+25/11/2020 17:58:39,33,Female,Berlin,,6,1,Middle,"Sketch, Figma",
+25/11/2020 18:00:44,30,Male,Paderborn,,6,2,Junior,Python,"Python, SQL, Docker"
+25/11/2020 18:02:06,31,Male,Berlin,,5,3,Lead,n/a,
+25/11/2020 18:04:21,37,Male,Berlin,,16,2,Senior,iOS,"Kotlin, C/C++, Swift, Ruby"
+25/11/2020 18:12:52,32,Male,Amsterdam,,13,,Senior,Kotlin,Kotlin
+25/11/2020 18:15:28,32,Female,Munich,,9,9,Middle,,
+25/11/2020 18:19:22,40,Male,Berlin,,13,9,Head,,SQL
+25/11/2020 18:19:58,30,Male,Berlin,,7,1,Senior,Java,"Go, AWS, Kubernetes"
+25/11/2020 18:24:15,30,Male,Berlin,,8,2,Senior,JS,
+25/11/2020 18:28:01,32,Male,Berlin,,10,3,Senior,js,"Java / Scala, Google Cloud, Docker"
+25/11/2020 18:28:01,32,Male,Cologne,,7,2,Middle,k8s,"Python, Google Cloud, Kubernetes, Docker"
+25/11/2020 18:31:48,34,Male,Munich,,12,8,Senior,Java,"Java / Scala, SQL, Go, Google Cloud, Kubernetes, Docker"
+25/11/2020 18:45:41,43,Male,Cologne,,10,7,Senior,Php,PHP
+25/11/2020 18:49:08,33,Male,Munich,,13,4,Senior,Java,"Python, Kotlin, Javascript / Typescript, AWS, Kubernetes, Docker"
+25/11/2020 18:51:20,28,Female,Munich,,8,4,Senior,Kotlin,"Kotlin, Java / Scala, AWS, Kubernetes, Docker"
+25/11/2020 18:51:36,33,Male,Hamburg,,11,5,Senior,Java,"Python, SQL"
+25/11/2020 18:53:10,33,Male,Munich,,11,4,Lead,"Frontend: react, node.js","Javascript / Typescript, AWS, Kubernetes, Docker"
+25/11/2020 18:56:02,51,Male,Berlin,,30,30,Senior,"VB, RPA, Python","Python, PHP, Javascript / Typescript, .NET, SQL, SAP / ABAP"
+25/11/2020 18:57:32,35,Male,Berlin,,8,5,Senior,Go,"Java / Scala, Go, AWS, Google Cloud, Azure, Kubernetes, Docker"
+25/11/2020 18:58:56,35,Male,Berlin,,1,1,Junior,FBD,"PHP, Javascript / Typescript, SQL"
+25/11/2020 18:59:36,33,Male,Berlin,,10,6,Senior,,"Python, Java / Scala"
+25/11/2020 19:02:12,28,Male,Munich,,6,3,Middle,"C, C++","C/C++, Linux Kernel"
+25/11/2020 19:02:20,21,Female,Cologne,,2,2,Middle,,
+25/11/2020 19:02:43,25,Male,Berlin,,2,2,Middle,"Swift, Objective-C, iOS",Swift
+25/11/2020 19:06:21,25,Female,Hamburg,,1,1,Student,Ruby,"Java / Scala, SQL"
+25/11/2020 19:10:04,32,Male,Berlin,,10,3,Lead,Ruby,"Python, Javascript / Typescript, Ruby, SQL, AWS, Docker"
+25/11/2020 19:15:16,32,Male,Berlin,,9,3,Lead,Embedded,"Python, C/C++, Go"
+25/11/2020 19:31:47,26,Male,Berlin,,9,4,Head,Go,"Kotlin, Ruby, Go, Rust, AWS, Kubernetes, Docker"
+25/11/2020 19:33:52,25,Male,Berlin,,6,3,Senior,JavaScript / TypeScript,"AWS, Docker"
+25/11/2020 19:38:20,27,Female,Berlin,,5,"2,5",Middle,Kotlin,"Python, Kotlin, Java / Scala, Google Cloud, Kubernetes"
+25/11/2020 19:44:29,28,Male,Frankfurt,,7,5,Senior,Javascript,"Javascript / Typescript, AWS, Azure, Docker"
+25/11/2020 19:44:59,32,Female,Munich,,8,1,Senior,Java,"Javascript / Typescript, C#"
+25/11/2020 19:54:39,28,Male,Karlsruhe,,7,3,Senior,Java,"Kotlin, Javascript / Typescript, AWS, Kubernetes, Docker"
+25/11/2020 19:57:23,34,Male,Berlin,,13,1,Lead,JavaScript,"Javascript / Typescript, SQL, AWS"
+25/11/2020 20:01:27,35,Male,Konstanz,,10,10,Middle,python,"Python, Azure, Kubernetes"
+25/11/2020 20:13:33,38,Male,Berlin,,20,9,Head,Java,"Python, Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker"
+25/11/2020 20:15:31,33,Male,Berlin,,9,4,Senior,Java,"Python, Javascript / Typescript, Java / Scala, SQL, Go, AWS, Kubernetes, Docker"
+25/11/2020 20:31:41,36,Male,Berlin,,10,2,Senior,,SQL
+25/11/2020 20:34:33,31,Female,Ulm,,8,3,Middle,Java,Java / Scala
+25/11/2020 20:41:13,43,Male,Stuttgart,,20,15,Senior,SAP / ABAP,"SQL, SAP / ABAP"
+25/11/2020 20:42:52,38,Male,Berlin,,15,2,Head,Python,"Python, SQL, SAP / ABAP, AWS"
+25/11/2020 20:47:48,35,Male,Munich,,17,5,Lead,Kubrrnetes,"R, AWS, Google Cloud, Kubernetes, Docker"
+25/11/2020 20:52:29,33,Male,Düsseldorf ,,6,"0,5",Senior,,
+25/11/2020 20:52:36,33,Male,Düsseldorf ,,6,"0,5",Senior,,
+25/11/2020 20:52:51,32,Male,Berlin,,10,1,Middle,python,"Python, SQL, Go, AWS, Google Cloud, Azure, Kubernetes, Docker"
+25/11/2020 21:05:06,43,Male,Berlin,,21,26,Lead,,"Python, PHP, SQL, Perl, AWS, Google Cloud, Kubernetes, Docker"
+25/11/2020 21:10:17,37,Male,Stuttgart ,,,,Senior,C#,
+25/11/2020 21:19:54,37,Male,Berlin,,17,1,Senior,Swift,Javascript / Typescript
+25/11/2020 21:20:37,30,Male,Stuttgart,,8,,Middle,C++,SQL
+25/11/2020 21:48:49,29,Male,Berlin,,5,4,Senior,iOS,Swift
+25/11/2020 22:05:13,41,Male,Berlin,,18,3,Senior,JavaScript,"Javascript / Typescript, AWS, Docker, Node"
+25/11/2020 22:11:45,38,Male,Stuttgart ,,4,2,Middle,PHP,"Javascript / Typescript, SQL, Docker"
+25/11/2020 22:18:59,,Male,Frankfurt,,18,1,Senior,,"Javascript / Typescript, .NET, SQL, Google Cloud"
+25/11/2020 22:40:29,29,Male,Düsseldorf,,6,6,Middle,TypeScript,"Javascript / Typescript, Azure"
+25/11/2020 23:01:28,35,Male,Berlin,,12,3,Senior,JS,"Javascript / Typescript, SQL"
+25/11/2020 23:03:43,41,Male,Munich,,19,5,Senior,Java,"PHP, Java / Scala, SQL, AWS, Docker"
+25/11/2020 23:04:36,29,Male,Barcelona,,0,0,Junior,Python,"R, SQL"
+25/11/2020 23:08:40,26,Female,Dusseldorf,,5,5,Middle,ABAP,"Python, SQL"
+25/11/2020 23:20:02,32,Male,Paris,,12,3,Senior,,
+25/11/2020 23:30:07,30,Male,Berlin,,6,1,Middle,Python,AWS
+25/11/2020 23:32:29,26,Male,London,,3,0,Middle,"networking, linux, automation, cloud","Python, AWS"
+25/11/2020 23:42:47,35,Female,Munich,,4,4,Middle,PHP,"PHP, Javascript / Typescript, Java / Scala"
+25/11/2020 23:51:01,47,Male,Bölingen,,25,15,"no idea, there are no ranges in the firm ",java,"Java / Scala, SQL"
+25/11/2020 23:57:50,33,Male,Berlin,,10,10,Head,,
+26/11/2020 00:00:46,44,Male,Kyiv,,15,0,Head,UML,
+26/11/2020 00:06:33,40,,Berlin,,13,13,Senior,python,"Python, Javascript / Typescript, AWS, Docker"
+26/11/2020 00:16:00,32,Male,Berlin,,13,2,Senior,JavaScript,"PHP, Javascript / Typescript"
+26/11/2020 04:00:49,33,Male,Dusseldorf,,2,2,Lead,Spark,"Python, Docker"
+26/11/2020 04:00:56,32,Male,Munich,,8,2,Senior,"Js, reactJS ","Javascript / Typescript, AWS"
+26/11/2020 04:18:01,26,Male,Berlin,,4,3,Middle,Scala,"Python, Java / Scala, SQL, AWS, Google Cloud, Azure"
+26/11/2020 04:26:30,,Male,Berlin,,10,5,Senior,,"Python, Go"
+26/11/2020 05:53:19,22,Diverse,Cologne,,1,1,Head,Cobol,Perl
+26/11/2020 06:01:22,43,Male,Berlin,,20,20,Lead,Java,"C/C++, .NET, Java / Scala, AWS, Kubernetes, Docker"
+26/11/2020 07:06:11,33,Male,Munich,,11,6,Senior,JavaScript ,".NET, SQL"
+26/11/2020 07:14:19,35,Female,Frankfurt,,1,1,Junior,ABAP,"SQL, SAP / ABAP"
+26/11/2020 08:04:52,28,Male,Munich,,5,5,Middle,JavaScript,"Python, Javascript / Typescript, SQL, Rust, AWS, Kubernetes, Docker"
+26/11/2020 08:35:29,36,Male,Munich,,16,0,Senior,SRE,"Python, C/C++, Go"
+26/11/2020 08:37:49,27,Male,Munich,,2,0,Junior,Python ,"Python, SQL, AWS, Azure, Docker"
+26/11/2020 08:39:28,36,Male,Berlin,,4,1,Middle,Java,"Python, SQL, Kubernetes, Docker"
+26/11/2020 08:40:22,38,Male,Berlin,,5,1,Middle,Java,"Kotlin, Java / Scala, Google Cloud, Kubernetes, Docker"
+26/11/2020 08:40:41,28,Male,Berlin,,6,1,Middle,Android,"Kotlin, Java / Scala"
+26/11/2020 08:41:29,25,Male,Berlin,,8,0,Senior,Clojure,"Swift, Javascript / Typescript, Java / Scala, Clojure"
+26/11/2020 08:42:09,30,Male,Berlin,,6,1,Senior,Javascript,"Python, Javascript / Typescript, SQL, SAP / ABAP"
+26/11/2020 08:46:32,42,Female,Berlin,,10,3,Middle,"JS, WDIO","Javascript / Typescript, SQL, Docker"
+26/11/2020 09:02:41,30,Male,Berlin,,8,2,Middle,Python,"SQL, AWS, Kubernetes, Docker"
+26/11/2020 09:09:03,28,Male,Berlin,,8,1,Lead,Ruby,"SQL, AWS"
+26/11/2020 09:13:05,32,Female,Berlin,,9,5,Middle,"Terraform, Kubernetes, AWS, GCP, Ansible, Puppet","Ruby, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker"
+26/11/2020 09:20:23,29,Male,Berlin,,3,0,Middle,JavaScript ,PHP
+26/11/2020 09:26:37,30,Female,Karlsruhe,,8,0,Middle,,
+26/11/2020 09:38:35,35,Male,Berlin,,13,5,Lead,TypeScript,"Python, Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker, Elixir"
+26/11/2020 09:40:54,33,Male,Berlin,,10,4,Senior,JS,"Javascript / Typescript, Google Cloud, Kubernetes, Docker"
+26/11/2020 09:49:16,34,Male,Berlin,,13,1,Senior,Elixir,SQL
+26/11/2020 09:50:38,25,Male,Berlin,,6,2,Senior,Go,"Python, SQL, Go, AWS, Kubernetes, Docker"
+26/11/2020 09:51:53,42,Female,Berlin,,5,5,Middle,Java,
+26/11/2020 10:07:39,25,Female,Tampere (Finland),,3,3 months,Junior,Python,"Python, Tensorflow, Theano, Pytorch"
+26/11/2020 10:11:01,40,Male,Berlin,,14,8,Lead,Spring,"Java / Scala, AWS, Azure, Kubernetes, Docker"
+26/11/2020 10:14:19,33,Male,Heidelberg,,11,5,Senior,Python,"Python, Javascript / Typescript, SQL, AWS, Kubernetes, Docker"
+26/11/2020 10:31:07,39,Male,Cologne,,12,12,Head,PHP ,"AWS, Docker"
+26/11/2020 10:31:59,24,Male,Berlin,,2,2,Junior,Javascript,"Javascript / Typescript, Java / Scala, SQL, AWS, Docker"
+26/11/2020 10:40:41,24,Female,Prague,,3,0,Middle,Java,"Java / Scala, AWS, Azure, Kubernetes, Docker"
+26/11/2020 10:53:48,39,Male,Berlin,,15,10,Lead,Java,"Python, Kotlin, Javascript / Typescript, SQL, Docker"
+26/11/2020 10:59:10,33,Male,Amsterdam,,8,,Senior,C#,"Python, .NET, SQL"
+26/11/2020 11:10:50,26,Male,Berlin,,2.5,1,Middle,Java,
+26/11/2020 11:13:18,29,Male,Berlin,,6,"0,5",Middle,Swift,Swift
+26/11/2020 11:33:16,29,Female,Berlin,,5,2,Middle,PHP,"Python, Javascript / Typescript, SQL, AWS, Google Cloud, Docker"
+26/11/2020 11:45:08,32,Male,Prague,,8,,Senior,"C, C++",Python
+26/11/2020 11:46:05,34,Male,Hannover,,12,3,Senior,,
+26/11/2020 11:49:59,30,Male,Berlin,,9,3,Head,Java,"Javascript / Typescript, Java / Scala, Go, AWS, Docker"
+26/11/2020 11:50:35,31,Male,Berlin,,7,2,Middle,Python,"AWS, Kubernetes, Docker"
+26/11/2020 12:20:03,33,Male,Berlin,,8,2,Senior,swift,SQL
+26/11/2020 12:21:47,31,Female,Berlin,,1,1,Junior,React,"Python, AWS, Kubernetes, Docker, React"
+26/11/2020 12:47:20,36,Male,Frankfurt,,16,5,Middle,.Net,".NET, SQL"
+26/11/2020 13:35:07,30,Male,Berlin,,7,3,Middle,,
+26/11/2020 14:10:57,30,Male,Berlin,,8,5,Senior,Swift,"Python, Kotlin, Swift, Javascript / Typescript"
+26/11/2020 14:37:05,27,Male,Bucharest,,1,0,Junior,Javascript,Javascript / Typescript
+26/11/2020 14:48:23,39,Male,Berlin,,19,7,Senior,Golang,"Python, Ruby, Go, AWS, Google Cloud, Kubernetes, Docker"
+26/11/2020 14:53:30,30,Male,Munich,,10,3,Senior,Офмф,
+26/11/2020 15:14:31,32,Male,Berlin,,11,1,Senior,C++,"Python, C/C++, Rust"
+26/11/2020 15:29:49,35,Male,Berlin,,12,3,Senior,php,"SQL, Google Cloud, Docker"
+26/11/2020 15:31:02,34,Male,Berlin,,6,4.5,Senior,python,"Python, Javascript / Typescript, SQL, Google Cloud, Docker"
+26/11/2020 15:37:45,26,Male,Berlin,,4,2,Middle,Python,"Python, SQL, Google Cloud, Docker"
+26/11/2020 16:20:53,29,Male,Helsinki,,7,0,Senior,Kotlin,"Javascript / Typescript, Java / Scala, Flutter"
+26/11/2020 17:08:47,42,Male,Berlin,,18,5,Senior,React JS,Javascript / Typescript
+26/11/2020 17:24:39,31,Male,Berlin,,12,2,Senior,Java,"SQL, Go, AWS, Kubernetes, Docker"
+26/11/2020 17:25:10,30,Male,Berlin,,8,0,Senior,,"Javascript / Typescript, Ruby, Elixir"
+26/11/2020 17:27:56,33,Male,Berlin,,10,5,Senior,Python,"PHP, Javascript / Typescript, SQL, Go, Google Cloud, Kubernetes, Docker"
+26/11/2020 17:45:29,28,Male,Berlin,,6,1.5,Middle,Python,"Java / Scala, SQL, Kubernetes, Docker"
+26/11/2020 18:08:57,33,Male,Prague,,7,,Senior,,
+26/11/2020 18:57:33,35,Male,Düsseldorf,,3,3,Middle,Python,"SQL, AWS"
+26/11/2020 19:22:38,35,Male,Berlin,,16,6,Senior,Python,"Python, Java / Scala, SQL, Google Cloud"
+26/11/2020 19:22:45,31,Male,Berlin,,8,3,Senior,Typescript ,"Javascript / Typescript, Java / Scala, Go, Rust, AWS, Kubernetes, Docker"
+26/11/2020 19:25:56,32,Male,Siegen,,13,1,Junior,C,C/C++
+26/11/2020 20:19:33,38,Male,Berlin,,15,3,Senior,Go,"Google Cloud, Docker"
+26/11/2020 20:19:38,29,Male,Berlin,,9,0.1,Lead,Go,"SQL, AWS, Docker"
+26/11/2020 20:41:46,33,Male,Berlin,,13,1,Senior,Java,"Kotlin, Java / Scala, SQL, AWS, Google Cloud, Docker"
+26/11/2020 20:57:32,30,Male,Berlin,,7,1,Senior,,"Python, SQL, AWS, Kubernetes, Docker"
+26/11/2020 21:13:25,28,Male,Berlin,,6,6,Senior,JavaScript,"Javascript / Typescript, SQL, AWS, Docker"
+26/11/2020 21:13:28,32,Male,Berlin,,9,4,Senior,Python,"Java / Scala, SQL, AWS"
+26/11/2020 21:19:48,39,Male,Berlin,,10,3,Senior,Javascript,"Javascript / Typescript, Ruby, AWS, Docker"
+26/11/2020 21:22:59,31,Male,Minsk,,6,0,Senior,TypeScript/Angular,"Python, Javascript / Typescript"
+26/11/2020 21:29:02,33,Male,Berlin,,10,5,Senior,golang,"Go, Google Cloud, Kubernetes, Docker"
+26/11/2020 21:30:58,30,Male,Berlin,,8,3,Senior,Python,"Python, C/C++, Docker"
+26/11/2020 21:35:14,39,Female,Munich,,11,11,Lead,,SQL
+26/11/2020 21:42:38,30,Female,Düsseldorf ,,2,2,Junior,R,"Python, SQL"
+26/11/2020 21:49:57,37,Male,Munich,,15,6,Senior,C#,"Python, PHP, Javascript / Typescript, .NET, Java / Scala, AWS, Azure"
+26/11/2020 21:50:13,42,Male,Berlin,,20,2,Senior,PHP,"PHP, Javascript / Typescript, AWS, Docker"
+26/11/2020 22:09:35,28,Male,Munich,,6,3,Middle,,Azure
+26/11/2020 22:35:44,31,Male,Nuremberg,,9,5,Middle,Java,"Javascript / Typescript, Java / Scala"
+26/11/2020 22:41:33,20,Male,Berlin,,5,2,Lead,C#,.NET
+26/11/2020 22:44:06,34,Female,Berlin,,1 (as QA Engineer) / 11 in total,11,Senior,Python,"AWS, Kubernetes, Docker"
+26/11/2020 23:22:43,38,Male,Berlin,,15,5,Head,,
+26/11/2020 23:26:02,35,Male,Berlin,,20,6,Lead,Go,"PHP, Java / Scala, Go, AWS, Docker"
+26/11/2020 23:34:45,31,Male,Munich,,14,1.5,Senior,C++,"Javascript / Typescript, Java / Scala"
+26/11/2020 23:40:18,37,Male,Berlin,,11,5,Senior,Python,"C/C++, SQL, Docker"
+26/11/2020 23:45:20,37,Male,Berlin,,12,2.6,Lead,Kotlin/PHP,"Kotlin, PHP, SQL"
+27/11/2020 00:02:27,34,Male,Berlin,,9,2,Senior,iOS,Swift
+27/11/2020 00:29:36,25,Male,Marseille,,1,,Junior,Python,"Python, Javascript / Typescript, SQL, Docker"
+27/11/2020 00:33:53,42,Male,Friedrichshafen,,20,1,Senior,C++,"Python, C/C++, .NET"
+27/11/2020 00:35:10,35,Female,Berlin,,13,6,Senior,,
+27/11/2020 06:57:33,37,Male,Berlin,,8,7,Middle,,
+27/11/2020 08:08:17,33,Female,Berlin,,8,4,Senior,Python ,"SQL, Google Cloud, Docker"
+27/11/2020 09:50:36,26,Female,Moscow,,6,0,Senior,JavaScript,Javascript / Typescript
+27/11/2020 10:25:49,46,Male,Stuttgart,,13,6,Middle,C++,Python
+27/11/2020 10:43:49,30,Male,Berlin,,11,2,Senior,,
+27/11/2020 11:04:39,34,Male,Berlin,,13,2,Lead,C#,".NET, Kubernetes, Docker"
+27/11/2020 11:09:58,35,Male,Berlin,,15,4,Senior,Java,"Python, SQL, AWS, Docker"
+27/11/2020 11:44:47,27,Male,Berlin,,4,4,Senior,Go,"Python, C/C++, Go, AWS, Docker"
+27/11/2020 11:46:07,31,Male,Berlin,,7,5,Lead,python,"Python, Javascript / Typescript, SQL, Go, AWS, Google Cloud, Kubernetes, Docker"
+27/11/2020 11:53:47,24,Male,Berlin,,2,2,Junior,Java,"Python, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker"
+27/11/2020 12:01:25,28,Male,Berlin,,7,3,Senior,Python,"Python, SQL, AWS, Google Cloud, Kubernetes, Docker"
+27/11/2020 12:03:55,42,Male,Berlin,,18,2,Middle,PHP,
+27/11/2020 12:05:25,27,Male,Berlin,,5,1,Middle,Python,SQL
+27/11/2020 12:16:02,30,Male,Hannover,,5,3,Middle,Python,"Javascript / Typescript, Java / Scala, SQL"
+27/11/2020 12:20:51,,Male,Berlin,,11,1,Middle,python,"Python, SQL, AWS, Google Cloud"
+27/11/2020 12:26:33,26,Male,Berlin,,2,1.5,Middle,TypeScript,"Python, Kotlin, Javascript / Typescript, SQL, AWS, Docker"
+27/11/2020 12:30:01,37,Male,Walldorf,,15,15,Lead,Python,"AWS, Google Cloud, Kubernetes, Docker"
+27/11/2020 12:33:03,,Male,Hamburg,,12,12,Senior,Java,"Python, Kotlin, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Docker"
+27/11/2020 12:42:00,39,Male,Munich,,8,7,Senior,Python,C/C++
+27/11/2020 12:44:12,26,Female,Berlin,,"2,5","2,5",Middle,JS,Python
+27/11/2020 12:53:07,30,Male,Hamburg,,5,4,Head,Python,"R, SQL, AWS"
+27/11/2020 12:56:27,44,Male,Frankfurt,,10,10,Senior,SAP ABAP,SAP / ABAP
+27/11/2020 13:02:41,26,Male,Munich,,5,4,Senior,Spark,"Python, Java / Scala, R, SQL"
+27/11/2020 13:02:57,30,Male,Munich,,10,6,Senior,Go,"Python, C/C++, Javascript / Typescript, Go"
+27/11/2020 13:12:14,26,Male,Eindhoven,,3,,Middle,Python,"Python, C/C++, Docker, Tensorflow, PyTorch"
+27/11/2020 13:21:26,25,Female,Munich,,1,1,Junior,AI,"Python, SQL"
+27/11/2020 13:24:29,34,Male,France,,11,0,Senior,Python,"Javascript / Typescript, R, SQL, Google Cloud"
+27/11/2020 13:31:20,38,Female,Regensburg,,3,3,Middle,Python,"R, SQL"
+27/11/2020 13:38:23,40,Male,Berlin,,13,9,Head,,SQL
+27/11/2020 13:41:01,28,Male,Frankfurt,,5,1,Senior,Swift,Swift
+27/11/2020 13:47:57,29,Female,Berlin,,2,2,Junior,R,Python
+27/11/2020 14:08:28,30,Female,Berlin,,5,1.5,Middle,pythin,"Python, SQL, Docker"
+27/11/2020 14:14:20,28,Male,"Warsaw, Poland",,6,3 (in Poland),Middle,C#,"Javascript / Typescript, .NET, SQL"
+27/11/2020 14:34:16,,Female,Berlin,,1,8,Junior,Python,"Python, R, SQL, Azure"
+27/11/2020 14:43:39,42,Male,Berlin,,12,12,Lead,Java,"Kotlin, SQL, Kubernetes, Docker"
+27/11/2020 14:45:29,27,Male,Berlin,,5,1,Senior,Python,Google Cloud
+27/11/2020 14:52:02,29,Male,Munich,,4,4,Middle,Python,"Java / Scala, SQL, AWS, Azure"
+27/11/2020 14:54:00,29,Male,Munich,,4,4,Middle,R,"Python, SQL"
+27/11/2020 14:55:13,29,Female,Cologne,,1,1,Middle,julia,
+27/11/2020 15:26:10,27,Female,Berlin,,1,1,Junior,Java,
+27/11/2020 15:28:36,36,Male,Berlin,,"15, thereof 8 as CTO",13,C-Level,Java & PHP,"Python, PHP, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker"
+27/11/2020 15:31:37,37,Male,Munich,,14,6,Head,Typescript,"Python, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Docker"
+27/11/2020 15:49:51,31,Male,Amsterdam,,10,0,Lead,Python,"Javascript / Typescript, R, SQL, AWS, Azure, Docker"
+27/11/2020 15:57:34,35,Male,Berlin,,5,5,Middle,R,"R, SQL, Google Cloud"
+27/11/2020 16:22:55,27,Male,Berlin,,4,2,Junior,Python,"C/C++, Javascript / Typescript"
+27/11/2020 16:43:00,29,Male,Munich,,6,4,Middle,Python,"Javascript / Typescript, SQL, AWS, Kubernetes, Docker"
+27/11/2020 17:18:20,36,Male,Berlin,,5,2,Senior,Java,"Java / Scala, Kubernetes, Docker"
+27/11/2020 17:21:50,33,Male,Munich,,10,10,Senior,Java,"Python, Kotlin, Go, Kubernetes"
+27/11/2020 17:38:58,42,Male,Berlin,,12,12,Lead,Java,"Kotlin, SQL, Kubernetes, Docker"
+27/11/2020 17:46:19,32,Female,Berlin,,1,1,Junior,Sql ,Python
+27/11/2020 17:47:59,30,Male,Berlin,,10,7,Lead,Frontend,"C/C++, Javascript / Typescript, Go, AWS, Docker"
+27/11/2020 18:13:16,29,Female,Berlin,,4,4,Middle,Java/Kotlin,"Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker"
+27/11/2020 18:27:25,23,Male,Munich,,1,<1,Junior,Python,"C/C++, SQL, Google Cloud, Docker"
+27/11/2020 19:08:08,35,Female,Berlin,,2,2,Junior,React,Javascript / Typescript
+27/11/2020 19:13:30,36,Male,Frankfurt,,14,,Senior,C++/c,"Python, Docker"
+27/11/2020 19:45:57,34,Male,Berlin,,10,5,Senior,SQL,Python
+27/11/2020 19:50:24,34,Male,Berlin,,12,2,Lead,Kubernetes,"Python, Go, AWS, Kubernetes, Docker"
+27/11/2020 20:17:35,31,Male,Munich,,4,4,Senior,Python,Python
+27/11/2020 20:41:17,34,Female,Berlin,,7,0,Senior,Java,"Java / Scala, SQL, Docker"
+27/11/2020 20:47:20,31,Male,Munich,,,2,Middle,Python,"Python, C/C++, Azure, Docker"
+27/11/2020 21:00:34,33,Male,Munich,,14,8,Senior,"Angular, Typescript","PHP, Javascript / Typescript"
+27/11/2020 21:29:14,33,Male,Frankfurt,,8,5,Senior,C#,"Javascript / Typescript, .NET, SQL"
+27/11/2020 21:35:38,33,Male,Munich,,12,0.5,Middle,PHP,"PHP, Javascript / Typescript, SQL, Docker"
+27/11/2020 21:36:09,29,Male,Milan,,3,0,Middle,Python,"Python, SQL"
+27/11/2020 21:45:12,44,Female,Berlin,,13,0,Junior,,"Python, R, SQL, AWS, Google Cloud, Azure, Docker"
+27/11/2020 22:14:52,31,Male,Berlin,,5,2,Senior,Python,"Python, SQL, AWS, Kubernetes, Docker"
+27/11/2020 22:20:22,26,Male,Berlin,,2,1,Junior,Pyrhon,"Python, SQL, AWS, Google Cloud, Kubernetes, Docker"
+27/11/2020 22:35:06,42,Male,Berlin,,12,12,Lead,Java,"Kotlin, SQL, Kubernetes, Docker"
+28/11/2020 05:36:11,27,Male,Hamburg,,3,⁰,Middle,.net,"Javascript / Typescript, .NET, SQL, Docker"
+28/11/2020 07:10:16,33,Male,Berlin,,5,5,Middle,PM tools,
+28/11/2020 08:39:21,33,Male,Heilbronn,,7,7,Lead,C++,C/C++
+28/11/2020 10:53:43,36,Male,Frankfurt,,9,2,Senior,,
+28/11/2020 12:31:36,31,Male,Berlin,,9,9,Senior,"Grails, Groovy","Java / Scala, SQL, AWS"
+28/11/2020 12:42:48,42,Male,Berlin,,12,12,Lead,Java,"Kotlin, SQL, Kubernetes, Docker"
+28/11/2020 13:49:27,30,Male,Berlin,,7,7,Head,Python,"Python, SQL, AWS, Kubernetes, Docker"
+28/11/2020 14:13:25,32,Female,Berlin,,10,4,Lead,Java,"Python, Kotlin, .NET, SQL, Go, Docker"
+28/11/2020 17:56:48,34,Male,Berlin,,16,5,Lead,Ruby,"Kotlin, Javascript / Typescript, Java / Scala"
+28/11/2020 19:20:34,35,Male,Berlin,,15,10,Middle,C++,Python
+28/11/2020 19:42:06,33,Male,Munich,,10,4,Senior,PHP,"Python, Javascript / Typescript, Ruby, Java / Scala, AWS, Kubernetes, Docker"
+28/11/2020 20:21:28,39,Male,Düsseldorf ,,12,4,Senior,PHP,SQL
+28/11/2020 20:23:28,39,Female,Stuttgart ,,13,13,Senior,,
+28/11/2020 21:02:40,25,Female,Berlin,,2,2,Middle,python ,"Python, Javascript / Typescript, Ruby, SQL"
+28/11/2020 22:07:47,34,Male,Munich,,4,3,Middle,JavaScript,"Javascript / Typescript, Go"
+28/11/2020 22:16:17,28,Male,London,,8,0,Senior,.NET,"Javascript / Typescript, .NET, SQL, AWS"
+29/11/2020 01:29:24,35,Male,Berlin,,6,1,Middle,React / JavaScript,Javascript / Typescript
+29/11/2020 03:48:11,38,Male,Berlin,,8,8,Senior,Perl,"SQL, Go, AWS, Docker"
+29/11/2020 09:34:53,34,Male,Munich,,13,2,Lead,Java,"Kotlin, Javascript / Typescript, Java / Scala, AWS, Azure, Kubernetes, Docker"
+29/11/2020 10:06:00,36,Male,Dortmund,,8,8,Senior,kotlin,"Python, Kotlin, Javascript / Typescript, Java / Scala, SQL, AWS, Kubernetes, Docker"
+29/11/2020 10:27:35,30,Female,Munich,,8,2,Senior,Java,"AWS, Docker"
+29/11/2020 12:27:03,,Male,Berlin,,10,10,Senior,.net,".NET, SQL, Azure"
+29/11/2020 13:17:18,27,Male,Berlin,,6,3,Middle,Python,"Python, AWS"
+29/11/2020 14:27:45,27,Male,Berlin,,5,1.5,Middle,Java,"Python, Javascript / Typescript, Google Cloud, Kubernetes, Docker"
+29/11/2020 15:23:30,33,Male,Berlin,,7,1,Middle,Ruby,"Javascript / Typescript, Ruby, AWS, Docker"
+29/11/2020 15:26:18,29,Male,Berlin,,7,2,Middle,,"Python, SQL, Go, AWS, Kubernetes, Docker"
+29/11/2020 17:12:02,30,Female,Cologne,,8,7,Senior,"Python, cloud computing ","Python, SQL, AWS, Azure"
+29/11/2020 17:48:04,25,Male,Frankfurt,,2,2,Junior,Python,"Python, AWS, Kubernetes, Docker"
+29/11/2020 18:41:38,38,Male,Berlin,,12,6,Senior,Java,Kotlin
+29/11/2020 18:51:15,30,Female,Jena,,4,4,Middle,JS,"Python, PHP, Javascript / Typescript, SQL, AWS"
+29/11/2020 19:42:21,24,Male,Berlin,,3,,,,
+29/11/2020 20:04:23,34,Male,City in Russia,,14,0,Lead,Haskell,"Python, C/C++, .NET, SQL"
+29/11/2020 20:24:21,29,Male,Berlin,,8,7,Senior,JavScript,"Javascript / Typescript, AWS, Docker"
+29/11/2020 20:53:17,27,Male,Berlin,,3,0,Middle,Java,
+29/11/2020 21:34:45,36,Male,Berlin,,5,1,Middle,JavaScript,Javascript / Typescript
+30/11/2020 09:07:15,43,Male,Berlin,,20,3,Middle,Ruby,"Kotlin, PHP, Ruby, Java / Scala, SQL, AWS, Kubernetes, Docker"
+30/11/2020 09:57:43,32,Male,Munich,,10,4,Lead,js,Javascript / Typescript
+30/11/2020 10:48:04,28,Male,Berlin,,0,1,Junior,python,"Python, Docker"
+30/11/2020 10:49:42,36,Male,Nuremberg,,20,20,Lead,Java,"Java / Scala, SQL, Kubernetes, Docker"
+30/11/2020 10:49:54,38,Female,Düsseldorf,,14,,Middle,R,"Python, R, SQL"
+30/11/2020 10:50:53,27,Male,Nürnberg,,3,3,Middle,,
+30/11/2020 10:52:55,26,Male,Berlin,,2,2,Junior,Php,"PHP, Javascript / Typescript, SQL, Docker"
+30/11/2020 10:58:04,26,Male,Amsterdam,,2,,Junior,Python,"Python, SQL, Azure"
+30/11/2020 11:03:07,34,Male,Stuttgart ,,6,6,Head,C++,"Python, Javascript / Typescript, Java / Scala, R, SQL, AWS, Google Cloud, Azure, Kubernetes, Docker"
+30/11/2020 11:06:44,25,Male,Stuttgart,,0,0,Junior,Python ,"R, SQL, Hadoop Hive"
+30/11/2020 11:08:23,30,Male,Frankfurt,,3,3,Middle,Python,"SQL, Docker, Apache Spark, Apache Hadoop, Oracle, PostgreSQL, Bash, Apache Impala, Apache Hive"
+30/11/2020 11:13:05,35,Male,Berlin,,10,6,Senior,,"Figma, Sketch, Photoshop, etc..."
+30/11/2020 11:16:18,30,Male,Cracow,,7,0,Senior,SQL,"Python, AWS, Google Cloud, Azure, Alteryx, SAS"
+30/11/2020 11:23:45,26,Male,Berlin,,5,1,Middle,Python (Django),"Python, Javascript / Typescript, SQL, Google Cloud, Kubernetes, Docker"
+30/11/2020 11:24:53,30,Female,Stockholm,,7,1,Senior,Python,"Ruby, SQL"
+30/11/2020 11:32:03,33,Female,Brunswick,,6,4,Middle,C++,Python
+30/11/2020 11:34:22,26,Male,Berlin,,6,3,Senior,Go,"PHP, Go"
+30/11/2020 11:38:00,29,Male,Berlin,,6,1.5,Middle,Python ,"SQL, AWS, Google Cloud, Docker"
+30/11/2020 11:44:04,36,Male,Zurich,,5,0.5,Senior,Python,"Javascript / Typescript, SQL"
+30/11/2020 11:45:40,23,Male,Dublin,,3,0,Senior,Python,"Python, R, SQL"
+30/11/2020 11:52:06,45,Male,Madrid,,2,0,Senior,Python,"SQL, Azure"
+30/11/2020 11:56:44,41,Male,Rome,,22,0,Head,Python,"C/C++, SQL, Go, Rust, AWS, Google Cloud, Kubernetes, Docker"
+30/11/2020 12:06:18,28,Male,Berlin,,1,1,Junior,Python,"C/C++, AWS, Google Cloud, Docker"
+30/11/2020 12:07:23,35,Male,Berlin,,12,3.5,Senior,Python,"R, SQL, AWS, Docker"
+30/11/2020 12:08:57,37,Female,Berlin,,8,0.5,Middle,Python ,"SQL, AWS"
+30/11/2020 12:10:34,26,Male,Lisbon,,4,0,Middle,JavaScript,"Javascript / Typescript, Ruby, SQL"
+30/11/2020 12:11:34,30,Male,Barcelona,,5,0,Senior,R,"Python, SQL"
+30/11/2020 12:11:41,24,Male,Sofia,,5,0,Senior,Python,"Python, C/C++, SQL, Google Cloud, Kubernetes, Docker"
+30/11/2020 12:11:50,35,Male,Frankfurt,,6,5,Head,C,"Python, C/C++, Docker"
+30/11/2020 12:13:37,27,Male,Rome,,2,0,Junior,SQL,"Python, SQL, Google Cloud"
+30/11/2020 12:15:48,31,Male,Munich,,10,2,Lead,Python,
+30/11/2020 12:17:06,27,Female,Munich,,6,4,Senior,Java,Python
+30/11/2020 12:24:32,29,Male,Bonn,,2,2,Middle,Python,SQL
+30/11/2020 12:32:14,29,Male,Berlin,,6,6,Head,Python,"Python, Azure, Docker"
+30/11/2020 12:45:00,34,Male,Berlin,,14,6,Lead,Kotlin,"Python, Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker"
+30/11/2020 12:49:08,29,Male,Helsinki,,10,0,Senior,TypeScript,Javascript / Typescript
+30/11/2020 12:55:38,35,Male,Luttich,,12,0,Lead,Python,"Python, R, Spark"
+30/11/2020 12:56:08,54,Male,Milano,,31,6,Head,Network Automation,Python
+30/11/2020 13:10:41,31,Male,Berlin,,6,4,Senior,Kotlin,"Kotlin, PHP, Java / Scala, SQL, Go, AWS, Kubernetes"
+30/11/2020 13:12:47,30,Male,Bielefeld,,5,3,Junior,C++,"Python, Qt"
+30/11/2020 13:17:39,36,Male,Zurich,,15,2,Senior,C++,"C/C++, Java / Scala"
+30/11/2020 13:26:02,24,Male,Berlin,,1,1,Working Student,Python,"Python, Javascript / Typescript, R"
+30/11/2020 13:33:21,28,Male,Frankfurt,,8,1,Lead,C#,"Python, Javascript / Typescript"
+30/11/2020 13:50:56,,Male,Berlin,,4,4,Head,python,"R, SQL, AWS, Docker"
+30/11/2020 13:52:05,36,Male,Hamburg,,2,10,Middle,Python,"Java / Scala, SQL"
+30/11/2020 13:55:09,26,Male,Berlin,,5,2,Middle,"Kubernetes, Terraform, GCP","Ruby, AWS, Google Cloud, Docker, Helm, Kustomize, Ansible"
+30/11/2020 14:06:35,36,Male,Munich,,14,6,Middle,PowerShell,SQL
+30/11/2020 14:30:05,33,Male,Berlin,,13,1.5,Senior,Python,"Python, Go, Docker"
+30/11/2020 14:36:32,35,Male,Berlin,,6,6,Senior,Java,"Python, Java / Scala, SQL, Go, AWS, Kubernetes, Docker"
+30/11/2020 14:42:27,29,Male,Basel,,5,,Lead,Python,"R, SQL"
+30/11/2020 14:47:24,36,Male,Berlin,,6,4,Middle,JavaScript,"Javascript / Typescript, Kubernetes, Docker"
+30/11/2020 15:10:35,35,Male,Berlin,,2,2,Middle,"python, scala","Python, Java / Scala, SQL, AWS, Docker"
+30/11/2020 15:27:53,29,Male,Berlin,,9,6,Senior,Java,"Kotlin, Java / Scala, SQL, AWS"
+30/11/2020 15:45:24,29,Male,Berlin,,11,7,Lead,TypeScript,"Python, Javascript / Typescript, SQL, Google Cloud, Kubernetes, Docker"
+30/11/2020 15:48:04,32,Male,Hamburg,,14,6,Lead,Java,"Javascript / Typescript, .NET, SQL"
+30/11/2020 16:01:37,23,Male,"NJ, USA",,4,0,Entry level,"Django, Flask, Plotly Dash","Python, AWS"
+30/11/2020 16:20:18,32,Female,Berlin,,10,6,Lead,QA,
+30/11/2020 16:24:25,30,Male,Berlin,,7,1,Senior,python,"Python, C/C++, AWS"
+30/11/2020 16:32:24,30,Male,Munich,,2,2,Middle,Python,"Python, C/C++, Java / Scala, AWS, Azure, spark"
+30/11/2020 16:42:50,30,Male,Berlin,,6,2,Middle,Python,"SQL, AWS, Docker"
+30/11/2020 16:54:46,30,Male,Frankfurt,,5,4,Middle,Python,"Javascript / Typescript, Java / Scala, R, Google Cloud, Azure, Kubernetes, Docker"
+30/11/2020 16:57:51,48,Male,Madrid,,15,0,Senior,Python,"Python, Javascript / Typescript, Perl, AWS, Google Cloud, Kubernetes, Docker"
+30/11/2020 17:05:15,31,Male,Berlin,,7,6,Senior,Sql,"Python, R, SQL"
+30/11/2020 18:24:21,38,Male,Cologne,,15,5,Senior,C#,"SQL, Azure"
+30/11/2020 18:25:04,22,Male,Istanbul,,3,0,Middle,PHP,"Python, Javascript / Typescript, SQL, AWS, Docker"
+30/11/2020 18:39:45,28,Male,warsaw,,3,0,Middle,Python,"Java / Scala, SQL, AWS, Google Cloud"
+30/11/2020 18:41:07,29,Male,Berlin,,5,2,Senior,Python,"Python, R, SQL, Google Cloud"
+30/11/2020 19:12:11,34,Male,Munich,,5,4,Senior,Javascript / Typescript,
+30/11/2020 19:23:52,27,Male,Berlin,,5,1,Middle,"Javascript, Angular",Javascript / Typescript
+30/11/2020 19:28:15,34,Male,Berlin,,3,3,Senior,Python,AWS
+30/11/2020 20:09:04,28,Male,Wolfsburg,,2,1,Junior,C,"Python, C/C++, Docker"
+30/11/2020 20:14:04,40,Male,Mannheim,,9,9,Middle,C,"Python, C/C++, Javascript / Typescript, Java / Scala, Perl, MATLAB"
+30/11/2020 20:39:33,29,Male,Berlin,,5,5,Middle,,
+30/11/2020 20:56:33,27,Male,Cologne,,1,1,Junior,C++,
+30/11/2020 21:19:16,35,Female,Munich,,5,2,Senior,"SAS,SQL,Python","Python, SQL, SAS"
+30/11/2020 21:31:01,29,Male,London,,9,0,Senior,Typescript,"Javascript / Typescript, Java / Scala"
+30/11/2020 21:45:21,38,Male,Munich,,12,12,Senior,Node,"Python, PHP, SQL"
+30/11/2020 21:48:26,32,Male,Berlin,,7,5,Senior,Python/SQL,"AWS, Kubernetes, Docker"
+30/11/2020 21:57:56,37,Male,Berlin,,10,10,Senior,Python,"Python, SQL, AWS, Azure, Kubernetes, Docker"
+30/11/2020 21:58:51,29,Male,Karlsruhe,,6,5,Senior,"php, js, python, docker","SQL, AWS, Azure"
+30/11/2020 22:13:06,32,Male,Frankfurt,,7,7,Senior,"C, Matlab",
+30/11/2020 22:18:02,40,Male,Hildesheim,,16,3,Senior,C++,
+30/11/2020 22:42:01,39,Male,Berlin,,12,6,Lead,Javascript,"Python, Javascript / Typescript, SQL, AWS, Docker"
+30/11/2020 22:42:57,32,Male,Vienna,,10,10,Lead,Java,"Javascript / Typescript, SQL, Go, Google Cloud, Kubernetes, Docker"
+30/11/2020 23:26:56,26,Female,Berlin,,5,0,Middle,Java,Python
+30/11/2020 23:38:05,30,Male,Berlin,,9,1,Middle,"TypeScript, Kotlin","Kotlin, Javascript / Typescript, Rust"
+01/12/2020 00:06:49,32,Female,Munich,,5,5,Senior,Python ,"Python, Go"
+01/12/2020 00:16:18,32,Male,Munich,,8,1,Senior,C++,"Python, C/C++"
+01/12/2020 00:20:42,31,Male,Helsinki,,5,0,Middle,Java,"Javascript / Typescript, Java / Scala, SQL, AWS, Kubernetes, Docker"
+01/12/2020 00:25:07,30,Male,Berlin,,10,6,Senior,Ruby,"Python, Javascript / Typescript, Ruby, .NET, Java / Scala, Azure, Kubernetes"
+01/12/2020 00:32:37,30,Male,Munich,,12,2,Senior,Cloud,
+01/12/2020 00:32:53,30,Female,Berlin,,8,6,Senior,Javascript,"Javascript / Typescript, AWS, Docker"
+01/12/2020 00:38:14,25,Male,Hamburg,,5,1,Middle,Java,"Kotlin, SQL"
+01/12/2020 01:32:35,30,Male,Berlin,,9,9,Lead,,
+01/12/2020 07:13:14,26,Male,Munich,,4,0,Middle,JavaScript / TypeScript,Javascript / Typescript
+01/12/2020 08:00:20,32,Male,Munich,,4,4,Senior,,"Java / Scala, SQL"
+01/12/2020 08:38:27,32,Female,Heidelberg ,,8,0,,Typescript,"Javascript / Typescript, .NET, C#, Angular "
+01/12/2020 08:39:16,39,Male,Siegen,,16,6,Senior,Embedded,C/C++
+01/12/2020 08:45:11,31,Male,Munich,,8,2,,,"Kubernetes, Docker"
+01/12/2020 08:49:09,35,Male,Murnau am Staffelsee ,,1,1,Middle,Apotheker,
+01/12/2020 08:52:15,38,Male,Munich,,16,5,Senior,.net,.NET
+01/12/2020 09:44:56,22,Male,Zürich,,2,0.5,Intern,Python,"Python, SQL, Google Cloud"
+01/12/2020 09:47:47,32,Male,Innsbruck,,3,0,Senior,Python,"R, SQL, AWS, Google Cloud"
+01/12/2020 09:50:38,30,Female,Munich,,9,3,Senior,"JavaScript, TypeScript",PHP
+01/12/2020 09:59:53,34,Male,Berlin,,10,4,Middle,Java,Docker
+01/12/2020 10:04:53,36,Male,Stockholm,,14,7,Senior,Java,Kotlin
+01/12/2020 10:11:09,26,Female,Hannover,,2,"0,3",Middle,Tricentis Tosca,"Java / Scala, SQL"
+01/12/2020 10:48:26,28,Female,Berlin,,3,2.5,Middle,SQL,"Python, Javascript / Typescript, Ruby, AWS"
+01/12/2020 11:17:35,25,Male,Berlin,,6,0,Middle,Scala,"Python, Javascript / Typescript, Java / Scala, AWS, Kubernetes"
+01/12/2020 12:29:04,28,Male,Berlin,,6,6,Lead,"Python, SQL","Python, Javascript / Typescript, SQL, AWS, Google Cloud"
+01/12/2020 12:47:27,26,Male,Berlin,,4,1,Middle,Swift/Kotlin,"Kotlin, Javascript / Typescript, SQL, AWS, Docker"
+01/12/2020 13:56:36,35,Male,Berlin,,20,5,Senior,JavaScript,"Javascript / Typescript, AWS, Kubernetes, Docker"
+01/12/2020 13:58:10,25,Male,Brussels ,,1,,Junior,Python ,"Python, SQL, AWS"
+01/12/2020 14:21:01,23,Female,Berlin,,1,1,Junior,Sql ,"Python, R, SQL, Google Cloud"
+01/12/2020 14:33:35,28,Male,Munich,,3,3,Junior,.NET,"Python, C/C++, .NET"
+01/12/2020 14:58:24,36,Male,Berlin,,10,10,Principal,Java & Distributed Systems Stuff,"Python, Javascript / Typescript, Java / Scala, SQL, Google Cloud, Kubernetes, Docker"
+01/12/2020 15:57:44,41,Male,Berlin,,20,0,Senior,Php,"PHP, Javascript / Typescript, SQL"
+01/12/2020 16:16:38,30,Male,Heidelberg,,9,4,Senior,.NET,"Javascript / Typescript, .NET, Docker"
+01/12/2020 16:16:56,30,Male,Heidelberg,,9,4,Senior,.NET,"Javascript / Typescript, .NET, Docker"
+01/12/2020 16:36:05,28,Male,Zurich,,6,0,Middle,C++,"Python, C/C++, Java / Scala"
+01/12/2020 17:50:06,29,Male,Berlin,,5,5,Middle,javascript,"Javascript / Typescript, Kubernetes, Docker"
+01/12/2020 18:09:57,,Male,Berlin,,15,6,Middle,Elixir,"Python, Ruby, Kubernetes, Docker"
+01/12/2020 18:58:24,26,Female,Prague,,4,1,Middle,C#,.NET
+01/12/2020 19:09:43,26,Male,Berlin,,4,3,Middle,Python,"Python, Javascript / Typescript, SQL, Google Cloud"
+01/12/2020 19:26:55,31,Male,Munich,,5,2,Middle,Java,"Javascript / Typescript, Java / Scala, SQL, Docker"
+01/12/2020 20:57:41,34,Female,Hildesheim ,,11,2,Senior,QA,"Python, SQL"
+01/12/2020 21:28:19,34,Male,Hamburg,,8,1,Senior,Embedded,C/C++
+01/12/2020 22:23:17,36,Male,Munich,,13,5,Head,Java,"Javascript / Typescript, Java / Scala, AWS, Azure, Kubernetes, Docker"
+01/12/2020 23:24:17,36,Male,Berlin,,17,4,Head,Python,"Go, AWS, Kubernetes, Docker"
+02/12/2020 00:07:14,40,Female,Berlin,,16,4,Middle,,PHP
+02/12/2020 00:27:03,31,Male,Berlin,,7,2,Senior,Java,"SQL, AWS, Kubernetes, Docker"
+02/12/2020 04:49:47,28,Male,Munich,,8,1,Senior,PHP,"PHP, Javascript / Typescript, SQL, Go, AWS"
+02/12/2020 04:49:53,28,Male,Munich,,8,1,Senior,PHP,"PHP, Javascript / Typescript, SQL, Go, AWS"
+02/12/2020 08:56:43,36,Male,Berlin,,16,8,Lead,Scala,"Python, Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker"
+02/12/2020 10:35:10,22,Female,Eindhoven,,2,-,Junior,JS,"Javascript / Typescript, SQL, Docker"
+02/12/2020 11:52:05,26,Female,Berlin,,7,0.5,Senior,,
+02/12/2020 12:06:42,30,Male,Berlin,,4,2,Middle,python,Python
+02/12/2020 14:20:32,35,Male,Berlin,,12,6,Middle,Kotlin,"Python, Ruby, Java / Scala, AWS"
+02/12/2020 14:43:40,30,Male,Berlin,,10,2,Middle,iOS,
+02/12/2020 14:45:13,36,Male,Bonn,,15,1,Junior,jenkins bash,"Kotlin, Swift, Javascript / Typescript, Docker"
+02/12/2020 16:12:21,35,Male,Berlin,,,5,Lead,,"Python, Java / Scala, AWS, Kubernetes, Docker"
+02/12/2020 17:06:36,28,Male,Cologne,,5,1,Middle,Java,"Python, Kotlin, Javascript / Typescript, SQL, Docker"
+02/12/2020 17:09:22,42,Male,Berlin,,19,3,Senior,PHP,"Kotlin, SQL, Kubernetes, Docker"
+02/12/2020 18:46:00,34,Male,Berlin,,14,4,Senior,Kotlin,"Java / Scala, SQL, AWS, Kubernetes, Docker"
+02/12/2020 19:35:54,27,Male,Hamburg,,0,0,Junior,Python,Javascript / Typescript
+02/12/2020 21:39:34,,Male,Munich,,5,3,Lead,javascript,Javascript / Typescript
+02/12/2020 21:42:33,36,Female,Berlin,,5,5,Senior,Python,"Python, R"
+02/12/2020 21:53:01,31,Male,Berlin,,4,4,Senior,Python,"Python, Javascript / Typescript, AWS, Docker"
+02/12/2020 22:41:04,32,Female,Munich,,2,2,Junior,Test Management ,
+03/12/2020 08:53:41,32,Male,Berlin,,13,5,Lead,JavaScript,"Javascript / Typescript, SQL, AWS, Docker"
+03/12/2020 09:40:36,36,Male,Prefer not to say,,6,6,Senior,Python,"Python, R, Docker"
+03/12/2020 10:59:45,26,Male,Munich,,6,2,Senior,TypeScript,"AWS, Docker"
+03/12/2020 11:04:39,28,Female,Berlin,,4,2,Middle,Python,Python
+03/12/2020 11:52:21,34,Male,Munich,,10,10,Senior,Python,"R, SQL, AWS, Docker"
+03/12/2020 13:25:21,38,Male,Berlin,,10,9,Senior,Python,Python
+03/12/2020 13:58:08,37,Male,Berlin,,16,8,Senior,Java,"Google Cloud, Kubernetes, Docker"
+03/12/2020 21:03:20,31,Male,Berlin,,9,1,Senior,NodeJS/TS,Javascript / Typescript
+03/12/2020 21:25:35,38,Male,Berlin,,15,1,Middle,PHP/MySQL,"PHP, SQL, Docker, VMs"
+03/12/2020 21:59:27,24,Male,Moscow,,3,0,Senior,,
+03/12/2020 22:07:03,25,Male,Hamburg,,2,2,Middle,Python,.NET
+04/12/2020 09:21:01,33,Female,Berlin,,13,4,Middle,"Angular, TypeScript",Javascript / Typescript
+04/12/2020 10:37:11,39,Female,Berlin,,2.5,2,Junior,python,"C/C++, R, SQL"
+04/12/2020 11:18:51,25,Male,Hamburg,,1,1,Junior,C#,"Javascript / Typescript, .NET, SQL, Kubernetes"
+04/12/2020 11:51:26,30,Female,Berlin,,7,3,Senior,Java,"Python, Javascript / Typescript"
+04/12/2020 15:56:55,45,Male,Stuttgart,,27,20,Head,,"Clojure, Rust"
+04/12/2020 18:56:48,28,Female,Berlin,,5,1,Senior,,
+04/12/2020 19:00:59,45,Male,Munich,,19,11,Senior,,
+04/12/2020 20:33:47,37,,Munich,,15,6,Senior,C,"Python, C/C++, Docker"
+05/12/2020 00:19:36,35,Male,Munich,,14,1,Senior,C++,"Python, C/C++"
+05/12/2020 03:34:07,25,Male,Cologne,,2,2,Middle,"NLP, Python","Python, C/C++, Google Cloud, Docker"
+05/12/2020 10:09:33,31,Male,Berlin,,4,1,Senior,Java,"Python, Javascript / Typescript, SQL, AWS, Kubernetes"
+05/12/2020 12:18:41,31,Male,Hamburg,,"6 (not as a data scientist, but as a lab scientist)","6 (not as a data scientist, but as a lab scientist)",Middle,Python,"Python, R, SQL"
+05/12/2020 12:43:21,25,Female,Amsterdam,,1.5,0,Middle,Python,"AWS, Docker"
+05/12/2020 13:42:21,27,Male,Dusseldurf,,2,0,Middle,PHP,Kotlin
+05/12/2020 13:52:19,37,Male,Berlin,,12,6,Middle,php,"PHP, SQL, Docker"
+05/12/2020 14:54:17,27,Male,Frankfurt,,5,3,Middle,,
+05/12/2020 15:16:24,32,Male,Hamburg,,4,1.5,Middle,"Python, Whole Apache Data Science Stack, AWS","Javascript / Typescript, SQL, AWS, Docker"
+05/12/2020 17:29:17,28,Female,Berlin,,3,2,Middle,Python,"AWS, Docker"
+05/12/2020 18:10:14,35,Male,Fr,,4,2.5,Middle,Java,"Javascript / Typescript, Java / Scala, SQL"
+05/12/2020 22:37:41,36,Male,Berlin,,15,4,Lead,Go,"PHP, AWS, Kubernetes, Docker"
+06/12/2020 14:46:17,32,Male,Berlin,,5,10,Senior,Java,"Python, PHP, Javascript / Typescript, SQL"
+06/12/2020 16:31:09,22,Male,Frankfurt,,2,2,Junior,Java,
+06/12/2020 19:01:46,33,Male,Berlin,,3,3,Head,Python,"Python, Javascript / Typescript, Docker"
+06/12/2020 21:08:57,35,Male,Berlin,,13,5,Senior,Php,"PHP, SQL, Go, AWS, Docker"
+06/12/2020 21:17:41,32,Female,Berlin,,5,5,Middle,Java,"Python, Docker"
+06/12/2020 21:51:21,69,Male,Stuttgart,,383,3,Head,,
+07/12/2020 03:52:51,28,Male,Berlin,,4,0,Junior,SQL,"Python, Clojure, SQL"
+07/12/2020 06:56:43,30,Male,Hamburg,,5,5,Middle,Python,"Python, C/C++, SQL, AWS"
+07/12/2020 07:09:07,40,Male,Munich,,15,7,Lead,SQL,"Python, Javascript / Typescript, .NET, Java / Scala, SQL, Go, AWS, Azure, Docker"
+07/12/2020 08:28:00,27,Female,Berlin,,5,2,Senior,Python ,"SQL, AWS, Google Cloud, Docker"
+07/12/2020 09:25:26,32,Male,Berlin,,10,5,Senior,Node.js,"Javascript / Typescript, SQL, Google Cloud, Kubernetes, Docker"
+07/12/2020 13:10:18,33,Male,Munich,,5,5,Senior,Embedded C++,"Python, C/C++"
+07/12/2020 16:36:43,31,Male,Berlin,,4,2,Middle,Python,"Python, SQL, AWS, Docker"
+07/12/2020 19:49:33,30,Male,Cologne,,5,5,Middle,,Python
+07/12/2020 21:22:11,32,Male,Munich,,10,3,Lead,Swift,Java / Scala
+07/12/2020 22:47:21,32,Male,Munich,,12,4,Senior,,
+07/12/2020 22:48:05,25,Male,Munich,,7,1,Senior,JS,"C/C++, Javascript / Typescript, AWS, Google Cloud, Kubernetes"
+07/12/2020 22:54:31,34,Male,Munich,,10,4,Senior,C++,"Python, C/C++"
+07/12/2020 22:56:55,29,Male,Darmstadt,,5,2,Middle,Python,"SQL, Kubernetes, Docker"
+07/12/2020 22:56:59,29,Male,Darmstadt,,5,2,Middle,Python,"SQL, Kubernetes, Docker"
+07/12/2020 23:01:55,30,Male,Munich,,10,3,Lead,,"Python, Go, AWS, Kubernetes, Docker"
+08/12/2020 00:04:34,31,Male,Frankfurt,,8,5,Lead,,
+08/12/2020 01:00:52,24,Male,Munich,,3,1,Junior,Go,"Python, SQL, Go"
+08/12/2020 01:09:28,35,Male,Frankfurt,,10,1,Senior,Java,"Python, .NET, Java / Scala, SQL, Kubernetes, Docker"
+08/12/2020 01:45:43,31,Male,Munich,,6,2,Middle,NodsJs,"Javascript / Typescript, AWS, Kubernetes, Docker"
+08/12/2020 08:17:39,27,Male,Munich,,2,5,Junior,Java,Javascript / Typescript
+08/12/2020 09:39:06,38,Male,Berlin,,1,1,Junior,Javascript/Typescript,AWS
+08/12/2020 09:39:49,34,Male,Munich,,12,2,Middle,Java,"Python, SQL, Perl"
+08/12/2020 10:53:52,35,Male,Darmstadt,,4,4,Senior,python,"Javascript / Typescript, Java / Scala, Docker"
+08/12/2020 11:49:02,35,Male,Duesseldorf,,17,5,Senior,Linux,"SQL, AWS, Google Cloud, Azure, Kubernetes, Docker"
+08/12/2020 13:30:50,36,Male,Berlin,,10,3,Senior,Java,"Javascript / Typescript, Java / Scala, SQL, AWS, Docker, nomad, QlikSense"
+08/12/2020 13:55:01,33,Male,Munich,,13,3,Senior,Java,"Python, Javascript / Typescript, AWS"
+08/12/2020 20:04:49,29,Male,Berlin,,7,3,Senior,"Kuberenetes, Openstack","Python, Go, Kubernetes, Docker, Openstack"
+08/12/2020 20:38:39,35,Male,Berlin,,15,4,Senior,Java,Kotlin
+08/12/2020 20:57:45,30,Male,Berlin,,11,4,Senior,c/c++,Python
+08/12/2020 21:41:06,31,Female,Berlin,,4,,Middle,,SQL
+08/12/2020 21:57:59,25,Female,Cambridge,,4,0,Middle,JavaScript/Typescript,Javascript / Typescript
+08/12/2020 22:10:37,24,Male,Berlin,,0.8,0.2,Junior,Python,Python
+08/12/2020 23:46:09,34,Male,Cologne,,14,2,Lead,C#,"Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker"
+09/12/2020 04:46:05,42,Male,Hamburg,,2,2,Senior,Python ,"Python, SQL, Google Cloud"
+09/12/2020 10:09:49,37,Female,Hamburg,,7,7,Middle,java,
+09/12/2020 10:32:21,32,Male,Berlin,,8,2,Senior,Swift,"Kotlin, Swift, Ruby"
+09/12/2020 13:37:29,26,Female,Berlin,,8,3,Middle,c++,"C/C++, SAP / ABAP"
+09/12/2020 21:12:22,35,Male,Munich,,15,5,Head,SQL,"Python, AWS, Kubernetes, Docker"
+10/12/2020 08:37:41,43,Male,Munich,,18,9,Lead,.NET,Kotlin
+10/12/2020 14:44:21,41,Male,Munich,,15,15,Senior,Kotlin,"Python, Java / Scala, SQL, AWS"
+11/12/2020 08:39:23,33,Male,Berlin,,8,6,Lead,NodeJS,"Python, Javascript / Typescript, SQL, AWS, Azure, Kubernetes, Docker"
+11/12/2020 09:20:06,44,Male,Berlin,,15,5,Lead,"JS, Java",Docker
+11/12/2020 16:25:59,28,Male,Berlin,,5,3,Middle,"Python, Pytorch","Python, AWS, Google Cloud, Docker"
+11/12/2020 22:00:36,34,Female,Berlin,,10,6,Senior,"PS, Sketch, React, CSS3",Javascript / Typescript
+11/12/2020 22:36:22,,,Frankfurt,,10,10,Senior,Python,"Python, C/C++, Docker"
+12/12/2020 11:45:25,40,Male,Berlin,,20,5,Lead,Java,"Kotlin, C/C++, Javascript / Typescript, Java / Scala, AWS, Docker"
+12/12/2020 14:51:11,28,Male,Brussels,,3,0,Middle,C++,"Python, C/C++, Javascript / Typescript, Docker"
+12/12/2020 20:52:06,26,Male,Stockholm,,2.5,0,Middle,Python/NLP,"Python, AWS, Google Cloud, Kubernetes, Docker"
+12/12/2020 20:55:50,39,Male,Berlin,,15,4,Lead,Java,"Java / Scala, Google Cloud, Kubernetes"
+13/12/2020 08:25:33,32,Male,Copenhagen,,6,6,Senior,Python,"Python, Azure"
+13/12/2020 11:59:29,36,Male,Berlin,,15,4,Lead,,"Google Cloud, Kubernetes, Docker, Terraform, Bash"
+13/12/2020 15:03:32,27,Female,Lisbon,,3,0,Middle,Java,"Java / Scala, SQL"
+13/12/2020 15:20:17,32,Female,Berlin,,2,2,Middle,Javascript,"Python, Javascript / Typescript, Go"
+13/12/2020 18:25:45,25,Female,Berlin,,4,1,Middle,"Scala, Apache Spark","Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker"
+13/12/2020 21:23:15,37,Female,Berlin,,7,2,Head,Python,"SQL, AWS, Docker, Matlab"
+14/12/2020 08:55:24,56,Male,Munich,,30,19,Lead,c++,"Python, C/C++, Javascript / Typescript, Java / Scala, AWS, Kubernetes, Docker"
+14/12/2020 09:03:54,30,Male,Berlin,,4.5,2.5,Middle,Python,"Python, SQL, AWS, Docker"
+14/12/2020 14:33:10,30,Female,Hamburg,,5,2,Senior,Java,
+14/12/2020 14:33:19,30,Female,Hamburg,,5,2,Senior,Java,
+14/12/2020 15:25:10,27,Male,Munich,,6,4,Middle,Python,"Python, C/C++, Docker"
+14/12/2020 16:39:33,29,Male,Berlin,,6,1,Senior,Python,"Javascript / Typescript, Google Cloud, Docker"
+16/12/2020 11:50:12,24,Male,Berlin,,3.5,0.25,Middle,"Swift, Objective-C",Ruby
+16/12/2020 12:02:55,27,Male,Berlin,,0,0,Junior,Python,"Python, SQL, Azure, Docker"
+16/12/2020 17:04:36,28,Male,Berlin,,7,5,Middle,React.js / TypeScript,
+17/12/2020 10:28:18,40,Male,Berlin,,14,0,Middle,"BI, DWH, ETL/ELT","Python, SQL, MS SQL Stack, Oracle, Informatica PowerCenter"
+17/12/2020 19:16:46,32,Male,Berlin,,9,5,Senior,Scala,"Go, Google Cloud"
+18/12/2020 07:55:08,35,Female,Berlin,,5,2,Senior,,SQL
+18/12/2020 10:17:16,32,Male,Berlin,,11,1,Senior,Scala,"Ruby, Java / Scala, AWS, Kubernetes, Docker"
+18/12/2020 10:32:56,30,Male,Berlin,,9,1,Senior,Scala,"Python, Java / Scala"
+18/12/2020 11:29:23,30,Male,Berlin,,9,5,Senior,Scala,"Java / Scala, AWS, Kubernetes"
+18/12/2020 12:23:22,36,Male,Stuttgart,,16,4,Lead,Java,"Kotlin, Java / Scala, SQL, AWS, Docker"
+18/12/2020 13:14:39,33,Male,Berlin,,7,7,Senior,C++,Javascript / Typescript
+18/12/2020 15:38:13,33,Male,Berlin,,15,4,Lead,Java,"Kotlin, Java / Scala, AWS, Kubernetes, Docker"
+18/12/2020 18:43:35,32,Male,Munich,,13,7,Middle,Java,"Javascript / Typescript, SQL, AWS, Docker"
+19/12/2020 09:31:16,31,,Berlin,,5,2.5,Middle,Python,"Java / Scala, AWS, Google Cloud, Kubernetes, Docker"
+19/12/2020 09:54:24,34,Male,Berlin,,12,4,Senior,Kotlin,"Go, Rust, Kubernetes"
+20/12/2020 00:30:53,,,Berlin,,,,,,
+20/12/2020 00:31:23,,,Berlin,,,,,,
+20/12/2020 01:48:34,54,Male,Munich,,25,15,Middle,Python,"Python, C/C++, Javascript / Typescript, Java / Scala, SQL, Kubernetes, Docker"
+20/12/2020 10:31:17,28,Male,Sevilla,,4,0,Middle,GCP,"Python, Java / Scala, R, SQL, Google Cloud"
+21/12/2020 13:45:43,28,Female,Berlin,,5,2,Senior,javascript,"Google Cloud, Docker"
+21/12/2020 14:52:24,29,Female,Berlin,,6,"0,5",Middle,Web,
+21/12/2020 23:41:56,38,Male,Berlin,,6,3,Lead,Python,"R, AWS"
+22/12/2020 11:55:00,33,Male,Berlin,,11,5,Senior,Scala,"Java / Scala, SQL"
+22/12/2020 13:39:31,36,Male,Berlin,,12,0.5,Senior,Python,"SQL, Docker"
+22/12/2020 16:31:16,36,Male,Berlin,,15,6,Senior,PHP,"Kotlin, AWS, Kubernetes, Docker"
+22/12/2020 17:11:31,37,Male,Aachen,,15,1,Senior,Python,
+22/12/2020 18:16:48,36,Male,Munich,,15,1,Senior,PL/SQL,SQL
+22/12/2020 18:36:24,35,Female,Munich,,"1,5","1,5",Junior,SAP,SAP / ABAP
+22/12/2020 19:44:13,33,Male,Munich,,10,6,Senior,Javascript,"Python, Javascript / Typescript"
+22/12/2020 23:41:41,33,Male,Stuttgart,,12,5,Lead,PHP,"Javascript / Typescript, SQL, AWS, Docker"
+23/12/2020 17:33:56,31,Male,Berlin,,7,2,Senior,Go,Go
+24/12/2020 10:37:30,36,Male,Amsterdam,,14,8,Senior,Swift,"Kotlin, Javascript / Typescript, AWS"
+24/12/2020 14:31:58,31,Male,Berlin,,9,5,Senior,scala,Java / Scala
+24/12/2020 15:12:35,36,Male,Regensburg,,10,10,Middle,C#,"Javascript / Typescript, .NET, SQL"
+24/12/2020 20:39:53,37,Male,Munich,,17,1,Senior,AWS,"AWS, Azure"
+24/12/2020 23:11:24,30,Male,Berlin,,3,3,Middle,Java,"Python, R, SQL, Kubernetes, Docker"
+25/12/2020 14:37:26,30,Male,Berlin,,11,1,Senior,Java / Scala,"Kotlin, Java / Scala, Clojure, Rust, AWS, Kubernetes, Docker"
+25/12/2020 17:03:05,27,Male,Krakow,,5,1,Senior,java,Python
+25/12/2020 21:58:38,33,Female,Munich,,10,3,Senior,Java,SQL
+26/12/2020 20:00:12,35,Male,Ingolstadt,,10,4,Lead,Magento,PHP
+27/12/2020 11:52:56,26,Male,Berlin,,5,4,Middle,Java,AWS
+27/12/2020 18:49:07,29,Male,Berlin,,9,5,Senior,C++,"Python, C/C++, Rust, AWS, Kubernetes, Docker"
+28/12/2020 11:20:05,31,Male,Berlin,,4,2,Middle,Ruby on Rails,Javascript / Typescript
+28/12/2020 12:00:15,36,Male,Stuttgart,,8,2,Lead,.net,"Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker"
+28/12/2020 22:24:47,24,Female,Munich,,less than year,less than year,student,"Python, database technologies","Python, Java / Scala, SQL, AWS"
+29/12/2020 18:33:08,36,Male,Berlin,,10,10,Middle,Android,Kotlin
+29/12/2020 23:57:42,29,Male,Munich,,6,5,Middle,SQL,Python
+30/12/2020 02:23:59,30,Female,Berlin,,3,3,Lead,JavaScript ,"AWS, Docker"
+30/12/2020 13:18:32,30,Male,Munich,,8,1,Senior,PHP,"Javascript / Typescript, SQL, Docker"
+30/12/2020 16:32:25,29,Male,Berlin,,5,5,Senior,Go,"Go, Google Cloud, Kubernetes, Docker"
+31/12/2020 17:56:25,34,Male,Berlin,,14,4,Lead,Java,"Kotlin, Javascript / Typescript, AWS, Kubernetes, Docker"
+01/01/2021 10:51:57,30,Male,Berlin,,10,4,Lead,Java,"Python, AWS, Kubernetes, Docker"
+01/01/2021 13:40:08,34,Male,Prague,,14,0,Lead,C#,"Javascript / Typescript, .NET, Azure, Kubernetes, Docker"
+02/01/2021 23:17:31,27,Male,Munich,,8,4,Senior,"C++, C#","C/C++, .NET"
+03/01/2021 02:44:04,26,Male,Munich,,5,1,Middle,Kotlin,"Kotlin, Java / Scala"
+04/01/2021 16:41:12,35,Male,Munich,,12,5,Lead,python,"Javascript / Typescript, SQL, AWS, Docker"
+05/01/2021 22:12:30,44,Male,Munich,,20,20,Head,Java Backend,"Java / Scala, SQL, Docker"
+05/01/2021 22:56:24,34,Male,Ingolstadt ,,3.5,3.5,Junior,C++,"Python, C/C++, Docker"
+05/01/2021 23:03:40,45,Male,Munich,,20,20,Self employed,".net, c++, spss, embeddded","C/C++, .NET, Go"
+05/01/2021 23:51:56,31,Male,Munich,,10,7,Senior,Ruby on Rails,"Python, Kotlin, Ruby, AWS, Docker"
+06/01/2021 21:20:44,24,Male,Berlin,,5,2,Senior,TypeScript,Javascript / Typescript
+06/01/2021 21:36:17,27,Male,Munich,,7,4,Middle,.NET,"Javascript / Typescript, .NET, Azure, Kubernetes, Docker"
+06/01/2021 21:42:52,34,Male,Berlin,,6,2,Middle,Javascript,Javascript / Typescript
+07/01/2021 10:47:40,28,Male,Munich,,7,3,Middle,Java,"Kotlin, Java / Scala, Go, AWS, Kubernetes, Docker"
+07/01/2021 14:37:29,25,Male,Berlin,,5,"0,5",Middle,Scala,"Python, Javascript / Typescript, Java / Scala, AWS"
+08/01/2021 00:38:57,35,Male,Karlsruhe,,12,7,Senior,".Net, Angular","Javascript / Typescript, .NET, SQL, Azure, Docker"
+08/01/2021 12:52:08,,,Munich,,,,,,
+08/01/2021 16:12:36,52,Male,Stuttgart,,,30,Lead,Atlassian JIRA,"SQL, Perl"
+08/01/2021 17:23:19,33,Female,Munich,,10,2,Junior,Java,SQL
+10/01/2021 22:31:57,26,Male,Saint-Petersburg,,5,,Middle,Python,"Python, .NET, Azure"
+10/01/2021 22:32:12,26,Male,Saint-Petersburg,,5,,Middle,Python,"Python, .NET, Azure"
+11/01/2021 12:12:34,39,Male,Berlin,,7,5,Senior,Java,"Kotlin, Google Cloud"
+12/01/2021 12:48:23,37,Male,Berlin,,15,5,Senior,Android,Kotlin
+12/01/2021 22:22:21,27,Male,Frankfurt,,3,1,Middle,Qlik,SQL
+13/01/2021 23:42:49,38,Male,Munich,,16,4,Senior,,Bi
+14/01/2021 01:14:58,31,Female,Berlin,,4,3,Middle,spark,"Python, SQL, AWS"
+15/01/2021 18:28:54,30,Male,Berlin,,10,5,,Kubernetes,"Go, Kubernetes"
+16/01/2021 14:39:02,32,Male,Munich,,10,6,Lead,SAP,
+16/01/2021 19:35:40,32,Female,Munich,,8,5,Senior,Java,Java / Scala
+16/01/2021 22:23:04,32,Male,Munich,,10,5,Head,Scala,"Javascript / Typescript, Java / Scala, SQL, Go, AWS, Docker"
+17/01/2021 13:22:23,28,Male,Berlin,,5,5,Middle,JavaScript,Javascript / Typescript
+18/01/2021 09:51:30,38,Male,Berlin,,18,8,Head,,"Javascript / Typescript, SQL, Go, AWS, Google Cloud, Azure, Kubernetes"
+18/01/2021 11:50:02,34,Male,Zurich,,7,2,Senior,PHP,PHP
+18/01/2021 15:05:50,31,Male,Berlin,,9,5,Senior,Java,"Python, Javascript / Typescript, Java / Scala, SQL, AWS, Docker"
+18/01/2021 17:46:02,33,Male,Berlin,,10,1.5,Senior,consumer analysis,
+18/01/2021 23:20:35,39,Male,Munich,,15,2,Lead,PHP,"Python, C/C++, Javascript / Typescript, Java / Scala, Perl, AWS, Docker, Networking, Data Center"
+19/01/2021 10:17:58,26,Male,Saarbrücken,,7,7,Middle,JavaScript,"Javascript / Typescript, Docker, HTML, CSS; Adobe XD"
+19/01/2021 12:01:11,26,Male,Berlin,,2,2,Middle,yaml,"Python, AWS, Kubernetes, Docker, terraform, ansible"
