@@ -462,19 +462,26 @@ with tab_demographics:
             gender_seniority["Respondents"] /
             gender_seniority.groupby("Seniority level")["Respondents"].transform("sum") * 100
         )
+        # Horizontal 100% stacked bars make the comparison easier to read.
         gender_fig = px.bar(
-            gender_seniority, x="Seniority level", y="Within-level %",
-            color="Gender display", barmode="stack",
-            title="Gender share within each seniority level",
+            gender_seniority, x="Within-level %", y="Seniority level",
+            color="Gender display", barmode="stack", orientation="h",
+            title="Gender composition within each seniority level",
             labels={"Within-level %": "Share within level (%)", "Gender display": "Gender"},
+            category_orders={"Gender display": ["Male", "Female", "Other / not specified"]},
             color_discrete_map={
                 "Male": "#34353A", "Female": "#C6A15B",
                 "Other / not specified": "#8F969D",
             }
         )
-        gender_fig.update_layout(yaxis_range=[0, 100], legend_title_text="Gender")
+        gender_fig.update_layout(
+            xaxis_range=[0, 100],
+            xaxis_ticksuffix="%",
+            legend_title_text="Gender",
+            yaxis={"categoryorder": "total ascending"},
+        )
         st.plotly_chart(style_chart(gender_fig, 460), use_container_width=True)
-        st.caption("Each bar totals 100% within that seniority level; small groups should be interpreted cautiously.")
+        st.caption("Each horizontal bar totals 100% for that seniority level. Unknown and Diverse are combined; interpret small groups cautiously.")
     st.caption("Small groups can produce unstable percentages. Check the respondent count before comparing categories.")
 
 # -----------------------------
