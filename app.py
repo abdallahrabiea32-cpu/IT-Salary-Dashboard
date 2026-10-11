@@ -356,9 +356,10 @@ with st.sidebar:
     cities = sorted(df["City"].dropna().astype(str).unique().tolist())
     selected_cities = st.multiselect("City", cities, default=[], key="filter_cities",
                                      help="Leave empty to include every city.")
-    genders = sorted(df["Gender"].dropna().astype(str).unique().tolist())
+    # Show only the two main categories in this filter; keep source data unchanged.
+    genders = [g for g in ["Female", "Male"] if g in df["Gender"].dropna().astype(str).unique()]
     selected_genders = st.multiselect("Gender", genders, default=[], key="filter_genders",
-                                      help="Leave empty to include every gender category.")
+                                      help="Choose Female and/or Male. Other categories are not shown in this filter.")
     seniorities = sorted(df["Seniority level"].dropna().astype(str).unique().tolist())
     selected_seniorities = st.multiselect("Seniority level", seniorities, default=[], key="filter_seniority",
                                           help="Leave empty to include every seniority level.")
@@ -426,22 +427,20 @@ with tab_overview:
         )
         st.plotly_chart(style_chart(age_fig, 390), use_container_width=True)
     with right:
-        gender_display = filtered["Gender"].astype(str).replace({
-            "Unknown": "Other / not specified",
-            "Diverse": "Other / not specified",
-        })
-        gender_counts = gender_display.value_counts().rename_axis("Gender").reset_index(name="Respondents")
+        gender_counts = (
+            filtered[filtered["Gender"].isin(["Male", "Female"])]["Gender"]
+            .value_counts().rename_axis("Gender").reset_index(name="Respondents")
+        )
         gender_fig = px.pie(
             gender_counts, names="Gender", values="Respondents", hole=0.55,
             title="Gender composition", color="Gender",
             color_discrete_map={
                 "Male": "#34353A", "Female": "#C6A15B",
-                "Other / not specified": "#8F969D",
             }
         )
         gender_fig.update_traces(textposition="inside", textinfo="percent+label")
         st.plotly_chart(style_chart(gender_fig, 390), use_container_width=True)
-        st.caption("Unknown and Diverse are combined into “Other / not specified” because these groups are very small.")
+        st.caption("This chart displays Male and Female respondents only; other categories are excluded from this visualization.")
 
     st.markdown("### Key findings in the current selection")
     most_senior = filtered["Seniority level"].value_counts()
@@ -470,13 +469,9 @@ with tab_demographics:
         )
         st.plotly_chart(style_chart(city_fig, 460), use_container_width=True)
     with c2:
-        gender_seniority = filtered.copy()
-        gender_seniority["Gender display"] = gender_seniority["Gender"].astype(str).replace({
-            "Unknown": "Other / not specified",
-            "Diverse": "Other / not specified",
-        })
+        gender_seniority = filtered[filtered["Gender"].isin(["Male", "Female"])].copy()
         gender_seniority = (
-            gender_seniority.groupby(["Seniority level", "Gender display"], dropna=False)
+            gender_seniority.groupby(["Seniority level", "Gender"], dropna=False)
             .size().reset_index(name="Respondents")
         )
         gender_seniority["Within-level %"] = (
@@ -486,14 +481,11 @@ with tab_demographics:
         # Horizontal 100% stacked bars make the comparison easier to read.
         gender_fig = px.bar(
             gender_seniority, x="Within-level %", y="Seniority level",
-            color="Gender display", barmode="stack", orientation="h",
+            color="Gender", barmode="stack", orientation="h",
             title="Gender composition within each seniority level",
-            labels={"Within-level %": "Share within level (%)", "Gender display": "Gender"},
-            category_orders={"Gender display": ["Male", "Female", "Other / not specified"]},
-            color_discrete_map={
-                "Male": "#34353A", "Female": "#C6A15B",
-                "Other / not specified": "#8F969D",
-            }
+            labels={"Within-level %": "Share within level (%)", "Gender": "Gender"},
+            category_orders={"Gender": ["Male", "Female"]},
+            color_discrete_map={"Male": "#34353A", "Female": "#C6A15B"}
         )
         gender_fig.update_layout(
             xaxis_range=[0, 100],
@@ -502,7 +494,7 @@ with tab_demographics:
             yaxis={"categoryorder": "total ascending"},
         )
         st.plotly_chart(style_chart(gender_fig, 460), use_container_width=True)
-        st.caption("Each horizontal bar totals 100% for that seniority level. Unknown and Diverse are combined; interpret small groups cautiously.")
+        st.caption("Each horizontal bar totals 100% among Male and Female respondents in that seniority level; other categories are excluded.")
     st.caption("Small groups can produce unstable percentages. Check the respondent count before comparing categories.")
 
 # -----------------------------
@@ -538,34 +530,38 @@ with tab_experience:
     c3, c4 = st.columns(2)
     with c3:
         age_experience = (
-            filtered.groupby("Age", as_index=False)
+            filtered[filtered["Gender"].isin(["Male", "Female"])]
+            .groupby("Age", as_index=False)
             .agg(
-                **{"Average experience (years)": (TOTAL_EXP, "mean"),
-                   "Respondents": (TOTAL_EXP, "count")}
+                **{
+                    "Average experience (years)": (TOTAL_EXP, "mean"),
+                    "Respondents": (TOTAL_EXP, "size"),
+                }
             )
         )
-        # Avoid showing unstable averages based on very small age groups.
         age_experience = age_experience[age_experience["Respondents"] >= 5]
-        age_line_fig = px.line(
+        line_fig = px.line(
             age_experience,
             x="Age",
             y="Average experience (years)",
             markers=True,
-            hover_data={"Respondents": True, "Average experience (years)": ":.1f"},
             title="Average total experience by age",
             labels={
                 "Age": "Age (years)",
-                "Average experience (years)": "Average experience (years)",
+                "Average experience (years)": "Average total experience (years)",
                 "Respondents": "Number of respondents",
             },
+            hover_data={"Respondents": True},
         )
-        age_line_fig.update_traces(
+        line_fig.update_traces(
             line={"color": "#C6A15B", "width": 3},
-            marker={"color": "#C6A15B", "size": 7},
+            marker={"size": 7, "color": "#C6A15B"},
         )
-        age_line_fig.update_layout(yaxis_rangemode="tozero")
-        st.plotly_chart(style_chart(age_line_fig, 420), use_container_width=True)
-        st.caption("Shows the average experience for each age, including only ages with at least 5 respondents.")
+        line_fig.update_layout(
+            xaxis_title="Age (years)",
+            yaxis_title="Average total experience (years)",
+        )
+        st.plotly_chart(style_chart(line_fig, 420), use_container_width=True)
     with c4:
         germany_by_seniority = (
             filtered.groupby("Seniority level", as_index=False)[GERMANY_EXP]
