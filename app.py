@@ -8,6 +8,8 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+
+
 st.set_page_config(
     page_title="IT Survey | Abdullah Rabea",
     page_icon="📊",
@@ -398,18 +400,27 @@ with tab_overview:
     left, right = st.columns(2)
     with left:
         age_fig = px.histogram(
-            filtered, x="Age", nbins=20, marginal="box",
+            filtered, x="Age", nbins=20,
             title="Age distribution", labels={"Age": "Age (years)"}
         )
         st.plotly_chart(style_chart(age_fig, 390), use_container_width=True)
     with right:
-        gender_counts = filtered["Gender"].value_counts().rename_axis("Gender").reset_index(name="Respondents")
+        gender_display = filtered["Gender"].astype(str).replace({
+            "Unknown": "Other / not specified",
+            "Diverse": "Other / not specified",
+        })
+        gender_counts = gender_display.value_counts().rename_axis("Gender").reset_index(name="Respondents")
         gender_fig = px.pie(
             gender_counts, names="Gender", values="Respondents", hole=0.55,
-            title="Gender composition"
+            title="Gender composition", color="Gender",
+            color_discrete_map={
+                "Male": "#34353A", "Female": "#C6A15B",
+                "Other / not specified": "#8F969D",
+            }
         )
         gender_fig.update_traces(textposition="inside", textinfo="percent+label")
         st.plotly_chart(style_chart(gender_fig, 390), use_container_width=True)
+        st.caption("Unknown and Diverse are combined into “Other / not specified” because these groups are very small.")
 
     st.markdown("### Key findings in the current selection")
     most_senior = filtered["Seniority level"].value_counts()
@@ -438,8 +449,13 @@ with tab_demographics:
         )
         st.plotly_chart(style_chart(city_fig, 460), use_container_width=True)
     with c2:
+        gender_seniority = filtered.copy()
+        gender_seniority["Gender display"] = gender_seniority["Gender"].astype(str).replace({
+            "Unknown": "Other / not specified",
+            "Diverse": "Other / not specified",
+        })
         gender_seniority = (
-            filtered.groupby(["Seniority level", "Gender"], dropna=False)
+            gender_seniority.groupby(["Seniority level", "Gender display"], dropna=False)
             .size().reset_index(name="Respondents")
         )
         gender_seniority["Within-level %"] = (
@@ -448,11 +464,17 @@ with tab_demographics:
         )
         gender_fig = px.bar(
             gender_seniority, x="Seniority level", y="Within-level %",
-            color="Gender", barmode="stack", title="Gender composition within seniority level",
-            labels={"Within-level %": "Share within level (%)"}
+            color="Gender display", barmode="stack",
+            title="Gender share within each seniority level",
+            labels={"Within-level %": "Share within level (%)", "Gender display": "Gender"},
+            color_discrete_map={
+                "Male": "#34353A", "Female": "#C6A15B",
+                "Other / not specified": "#8F969D",
+            }
         )
-        gender_fig.update_layout(yaxis_range=[0, 100])
+        gender_fig.update_layout(yaxis_range=[0, 100], legend_title_text="Gender")
         st.plotly_chart(style_chart(gender_fig, 460), use_container_width=True)
+        st.caption("Each bar totals 100% within that seniority level; small groups should be interpreted cautiously.")
     st.caption("Small groups can produce unstable percentages. Check the respondent count before comparing categories.")
 
 # -----------------------------
@@ -463,23 +485,26 @@ with tab_experience:
     c1, c2 = st.columns(2)
     with c1:
         exp_fig = px.histogram(
-            filtered, x=TOTAL_EXP, nbins=20, marginal="box",
+            filtered, x=TOTAL_EXP, nbins=20,
             title="Total professional experience",
             labels={TOTAL_EXP: "Total experience (years)"}
         )
         st.plotly_chart(style_chart(exp_fig, 400), use_container_width=True)
     with c2:
-        seniority_order = (
-            filtered.groupby("Seniority level")[TOTAL_EXP].median()
-            .sort_values().index.tolist()
+        seniority_medians = (
+            filtered.groupby("Seniority level", as_index=False)[TOTAL_EXP]
+            .median().sort_values(TOTAL_EXP)
         )
-        seniority_fig = px.box(
-            filtered, x="Seniority level", y=TOTAL_EXP, points="outliers",
-            category_orders={"Seniority level": seniority_order},
-            title="Experience by seniority level",
-            labels={TOTAL_EXP: "Total experience (years)"}
+        seniority_medians = seniority_medians.rename(columns={TOTAL_EXP: "Median experience (years)"})
+        seniority_fig = px.bar(
+            seniority_medians, x="Seniority level", y="Median experience (years)",
+            text="Median experience (years)", title="Typical experience by seniority",
+            labels={"Median experience (years)": "Median total experience (years)"},
+            color_discrete_sequence=["#C6A15B"]
         )
-        seniority_fig.update_xaxes(tickangle=35)
+        seniority_fig.update_traces(texttemplate="%{text:.1f}", textposition="outside")
+        seniority_fig.update_layout(yaxis_rangemode="tozero")
+        seniority_fig.update_xaxes(tickangle=25)
         st.plotly_chart(style_chart(seniority_fig, 400), use_container_width=True)
 
     c3, c4 = st.columns(2)
@@ -492,13 +517,24 @@ with tab_experience:
         )
         st.plotly_chart(style_chart(scatter_fig, 420), use_container_width=True)
     with c4:
-        corr = filtered[["Age", TOTAL_EXP, GERMANY_EXP]].corr(numeric_only=True)
-        heatmap_fig = px.imshow(
-            corr, text_auto=".2f", aspect="auto",
-            color_continuous_scale=[[0, "#8F969D"], [0.5, "#F4F3F0"], [0.78, "#C6A15B"], [1, "#34353A"]], zmin=-1, zmax=1,
-            title="Correlation matrix"
+        germany_by_seniority = (
+            filtered.groupby("Seniority level", as_index=False)[GERMANY_EXP]
+            .median().sort_values(GERMANY_EXP)
         )
-        st.plotly_chart(style_chart(heatmap_fig, 420), use_container_width=True)
+        germany_by_seniority = germany_by_seniority.rename(
+            columns={GERMANY_EXP: "Median Germany experience (years)"}
+        )
+        germany_fig = px.bar(
+            germany_by_seniority, x="Seniority level", y="Median Germany experience (years)",
+            text="Median Germany experience (years)",
+            title="Typical experience in Germany by seniority",
+            labels={"Median Germany experience (years)": "Median experience in Germany (years)"},
+            color_discrete_sequence=["#8F969D"]
+        )
+        germany_fig.update_traces(texttemplate="%{text:.1f}", textposition="outside")
+        germany_fig.update_layout(yaxis_rangemode="tozero")
+        germany_fig.update_xaxes(tickangle=25)
+        st.plotly_chart(style_chart(germany_fig, 420), use_container_width=True)
 
     corr_value = filtered[["Age", TOTAL_EXP]].corr().iloc[0, 1] if len(filtered) > 1 else np.nan
     if pd.notna(corr_value):
