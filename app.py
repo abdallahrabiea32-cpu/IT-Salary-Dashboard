@@ -230,7 +230,8 @@ def clean_dataset(raw_df):
         bad_germany = df[GERMANY_EXP] > df[TOTAL_EXP]
         df.loc[bad_germany, GERMANY_EXP] = np.nan
 
-    # Impute numeric missing values with median, and categorical missing values as Unknown.
+    # Impute numeric missing values with the median and categorical missing/Unknown
+    # entries with the most frequent observed value (mode).
     numeric_cols = [c for c in ["Age", TOTAL_EXP, GERMANY_EXP] if c in df.columns]
     for col in numeric_cols:
         if df[col].notna().any():
@@ -240,9 +241,19 @@ def clean_dataset(raw_df):
         c for c in ["Gender", "City", "Seniority level", tech_column, other_column]
         if c and c in df.columns
     ]
+    unknown_tokens = {"", "unknown", "n/a", "na", "not specified", "none", "nan"}
     for col in categorical_cols:
-        df[col] = df[col].fillna("Unknown")
-        df[col] = df[col].replace("", "Unknown")
+        normalized = df[col].astype("string").str.strip()
+        missing_mask = df[col].isna() | normalized.str.lower().isin(unknown_tokens)
+        observed = df.loc[~missing_mask, col]
+        if not observed.empty:
+            mode_values = observed.mode(dropna=True)
+            if not mode_values.empty:
+                df.loc[missing_mask, col] = mode_values.iloc[0]
+            else:
+                df.loc[missing_mask, col] = "Unknown"
+        else:
+            df[col] = df[col].fillna("Unknown")
 
     # Store the detected column names for downstream charts.
     df.attrs["tech_column"] = tech_column
@@ -337,25 +348,35 @@ raw_duplicates = int(raw.duplicated().sum())
 clean_duplicates = int(df.duplicated().sum())
 
 with st.sidebar:
+    st.header("Dashboard Sidebar")
+    st.caption("Use these interactive controls to explore a subset of survey respondents.")
+    st.divider()
     st.subheader("Filters")
+
     cities = sorted(df["City"].dropna().astype(str).unique().tolist())
-    selected_cities = st.multiselect("City", cities, default=[])
+    selected_cities = st.multiselect("City", cities, default=[], key="filter_cities",
+                                     help="Leave empty to include every city.")
     genders = sorted(df["Gender"].dropna().astype(str).unique().tolist())
-    selected_genders = st.multiselect("Gender", genders, default=[])
+    selected_genders = st.multiselect("Gender", genders, default=[], key="filter_genders",
+                                      help="Leave empty to include every gender category.")
     seniorities = sorted(df["Seniority level"].dropna().astype(str).unique().tolist())
-    selected_seniorities = st.multiselect("Seniority level", seniorities, default=[])
+    selected_seniorities = st.multiselect("Seniority level", seniorities, default=[], key="filter_seniority",
+                                          help="Leave empty to include every seniority level.")
+
     min_age = int(np.floor(df["Age"].min()))
     max_age = int(np.ceil(df["Age"].max()))
-    age_range = st.slider("Age range", min_value=min_age, max_value=max_age, value=(min_age, max_age))
-    exp_min = float(df[TOTAL_EXP].min())
-    exp_max = float(df[TOTAL_EXP].max())
+    age_range = st.slider("Age range", min_value=min_age, max_value=max_age,
+                          value=(min_age, max_age), key="filter_age")
+    exp_min = float(np.floor(df[TOTAL_EXP].min()))
+    exp_max = float(np.ceil(df[TOTAL_EXP].max()))
+    if exp_min == exp_max:
+        exp_max = exp_min + 1.0
     experience_range = st.slider(
-        "Total experience (years)",
-        min_value=float(np.floor(exp_min)),
-        max_value=float(np.ceil(exp_max)),
-        value=(float(np.floor(exp_min)), float(np.ceil(exp_max))),
-        step=1.0,
+        "Total experience (years)", min_value=exp_min, max_value=exp_max,
+        value=(exp_min, exp_max), step=1.0, key="filter_experience",
     )
+    st.divider()
+    st.caption("Tip: clear a multi-select to include all categories. Move sliders to narrow the results.")
 
 filtered = df.copy()
 if selected_cities:
@@ -617,7 +638,7 @@ with tab_quality:
         3. Converted experience values (including month-based answers) to years.
         4. Standardized common technology aliases and selected seniority labels.
         5. Treated total experience above 50 years as invalid and flagged Germany experience greater than total experience.
-        6. Imputed missing numeric values with each column's median and labeled missing categorical values as `Unknown`.
+        6. Imputed missing numeric values with each column's median and filled missing/Unknown categorical entries with the most frequent observed value (mode).
         7. Used descriptive statistics and interactive Plotly visualizations to explore distributions and associations.
         """
     )
@@ -626,7 +647,7 @@ with tab_quality:
         """
         - The uploaded project dataset contains no salary column; salary analysis is not possible from this file.
         - City names and technology combinations may still have spelling or grouping inconsistencies.
-        - Median imputation keeps rows in the analysis but can affect distributions and correlations.
+        - Median/mode imputation keeps rows in the analysis but can affect distributions and correlations; filled values are estimates, not original responses.
         - Small groups should be interpreted cautiously.
         - The sample describes survey respondents and should not be treated as a representative census of all IT professionals.
         """
